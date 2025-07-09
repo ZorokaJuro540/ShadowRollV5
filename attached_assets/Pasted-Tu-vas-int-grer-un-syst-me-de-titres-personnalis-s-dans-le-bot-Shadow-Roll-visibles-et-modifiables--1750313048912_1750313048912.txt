@@ -1,0 +1,49 @@
+Tu vas intégrer un système de titres personnalisés dans le bot Shadow Roll, visibles et modifiables dans le menu /profil.
+
+Crée un nouveau sous-menu dans le profil appelé 🎖️ Titres (ou bouton équivalent).
+
+Le joueur peut y consulter les titres qu’il a débloqués, et en sélectionner un actif.
+
+Le titre actif sera affiché dans la commande /profil sous le nom du joueur.
+
+Utilise déjà le système de succès et données utilisateurs pour débloquer des titres automatiquement.
+Tu peux aussi en créer liés au classement, à l’ancienneté, ou à des événements passés/futurs.
+
+Les titres doivent être stockés dans la base de données (débloqués / sélectionnés).
+
+🎖️ Exemples de titres que tu peux intégrer (à débloquer par succès, actions ou conditions) :
+Titre	Condition de déblocage
+L'Appelé des Ténèbres	Faire sa première invocation
+Invoqueur Érudit	Atteindre 50 invocations
+Collectionneur Fou	Avoir 30 personnages différents
+Chasseur de Légendes	Obtenir un SSR
+Loyal parmi les Ombres	Se connecter 7 jours consécutifs
+Main Maudite	Échouer 10 invocations d’affilée sans rare
+Maître de l’Arène	Être top 1 au classement
+Survivant du Néant	Participer à un événement spécial
+Première Vague	Joueur ayant rejoint lors du mois de lancement du bot
+Pilleur d’Âmes	Gagner 1 000 Shadow Coins
+Architecte des Ombres	Débloquer tous les succès actuels
+Sans Visage	Ne pas personnaliser son profil pendant 30 jours
+Reroll God	Utiliser 20 rerolls
+Silencieux mais Létal	Ne jamais parler mais obtenir un SSR
+Esthétique obscure	Avoir un skin personnalisé/unique
+Tacticien nocturne	Jouer uniquement entre 0h et 4h (5 fois)
+Ancien du Chaos	Titre événementiel, attribué manuellement
+
+✅ Bonus : Comportement attendu
+Quand un joueur clique sur 🎖️ Titres :
+
+Une interface s’ouvre avec la liste de ses titres débloqués (grisés sinon).
+
+Il peut cliquer sur un bouton pour activer un titre.
+
+Lorsqu’un titre est actif :
+
+Il est visible en haut du profil, ex :
+
+yaml
+Copier
+Modifier
+🧍 Joueur : Zoroka  
+🎖️ Titre : Chasseur de Légendes  

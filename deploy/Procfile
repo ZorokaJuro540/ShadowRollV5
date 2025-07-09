@@ -1,0 +1,1 @@
+worker: python start_with_healthcheck.py

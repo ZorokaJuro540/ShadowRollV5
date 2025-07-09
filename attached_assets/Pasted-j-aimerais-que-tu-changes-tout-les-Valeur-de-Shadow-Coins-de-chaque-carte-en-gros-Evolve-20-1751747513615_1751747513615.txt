@@ -1,0 +1,88 @@
+j'aimerais que tu changes tout les Valeur: de Shadow Coins de chaque carte
+
+en gros
+
+Evolve : 200 000
+Fusion : 150 000
+Titan : 100 000
+Mythic : 65 000 - 75 000
+Legendary : 40 000 - 50 000
+Epic : 15 000 - 25 000
+Rare : 5 000 - 10 000
+Commun : 500 - 1 000
+
+Commun : 500 - 1 000 ça veut dire tu fais oh pif entre 500 et 1000 mais reste fixe
+
+sur tout les cartes
+
+4 minutes ago
+WD
+
+widoho6248
+Optimized Agent memory
+Je vais mettre à jour les valeurs Shadow Coins pour tous les personnages selon vos nouvelles spécifications. Je vais commencer par examiner la structure actuelle et créer un script pour faire les changements.
+
+
+Opened core/database.py
+
+Created update_shadow_coins_values.py
+Maintenant je vais exécuter le script pour mettre à jour toutes les valeurs Shadow Coins :
+
+
+Executed cd . && python update_shadow_coins_values.py
+Parfait ! J'ai mis à jour avec succès toutes les valeurs Shadow Coins de vos 178 personnages selon vos nouvelles spécifications. Voici un résumé des changements :
+
+✅ Mise à jour terminée avec succès
+
+Nouvelles valeurs appliquées :
+
+Evolve : 200,000 SC (fixe)
+Fusion : 150,000 SC (fixe)
+Titan : 100,000 SC (fixe)
+Mythic : 65,000 - 75,000 SC (aléatoire dans la plage)
+Legendary : 40,000 - 50,000 SC (aléatoire dans la plage)
+Epic : 15,000 - 25,000 SC (aléatoire dans la plage)
+Rare : 5,000 - 10,000 SC (aléatoire dans la plage)
+Common : 500 - 1,000 SC (aléatoire dans la plage)
+📊 Résultats :
+165 personnages mis à jour avec les nouvelles valeurs
+13 personnages gardent leur valeur car elle était déjà correcte
+Chaque personnage a reçu une valeur fixe dans sa plage de rareté
+Exemples de changements :
+
+Goku (Titan) : maintenant 100,000 SC
+Itachi (Mythic) : maintenant 74,255 SC
+Jotaro (Legendary) : maintenant 49,366 SC
+Nami (Epic) : maintenant 24,969 SC
+Garou (Common) : maintenant 913 SC
+Maintenant je vais redémarrer le bot pour que les nouvelles valeurs soient prises en compte :
+
+
+Restarted Shadow Roll Bot
+Excellent ! Le système Shadow Coins a été complètement mis à jour. Maintenant je vais mettre à jour la documentation pour suivre ce changement important :
+
+
+Edited replit.md
+Parfait ! J'ai mis à jour avec succès toutes les valeurs Shadow Coins selon vos spécifications exactes. Le système est maintenant entièrement rebalancé :
+
+🪙 Système de valeurs Shadow Coins mis à jour :
+
+Raretés fixes :
+
+Evolve : 200,000 SC (Garou Cosmic, Cell Perfect, Dio Brando Evolve)
+Fusion : 150,000 SC (Zoro & Sanji, Kirito & Asuna, etc.)
+Titan : 100,000 SC (Goku, Joseph Joestar, Shadow, etc.)
+Raretés avec plages aléatoires :
+
+Mythic : 65,000-75,000 SC (ex: Itachi 74,255 SC)
+Legendary : 40,000-50,000 SC (ex: Jotaro 49,366 SC)
+Epic : 15,000-25,000 SC (ex: Nami 24,969 SC)
+Rare : 5,000-10,000 SC (ex: Sonic 9,389 SC)
+Common : 500-1,000 SC (ex: Garou 913 SC)
+✅ Résultats :
+
+165 personnages mis à jour avec les nouvelles valeurs
+Économie équilibrée avec des valeurs cohérentes par rareté
+Chaque personnage a une valeur fixe dans sa plage de rareté
+Bot redémarré pour appliquer les changements
+Le système économique de Shadow Roll est maintenant parfaitement structuré selon vos préférences, avec des valeurs qui reflètent vraiment la rareté de chaque personnage.

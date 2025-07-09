@@ -1,0 +1,19 @@
+services:
+  - type: worker
+    name: shadow-roll-bot
+    env: python
+    repo: https://github.com/yourusername/shadow-roll-bot
+    buildCommand: "pip install -r requirements.txt && python setup_database.py"
+    startCommand: "python main.py"
+    plan: starter
+    envVars:
+      - key: DISCORD_TOKEN
+        sync: false
+      - key: DISCORD_CLIENT_ID
+        sync: false
+      - key: LOG_LEVEL
+        value: INFO
+    disk:
+      name: shadow-roll-data
+      mountPath: /app/data
+      sizeGB: 1

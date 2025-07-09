@@ -1,0 +1,16 @@
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "python main.py"
+healthcheckPath = "/"
+healthcheckTimeout = 300
+restartPolicyType = "ON_FAILURE"
+
+[env]
+DISCORD_TOKEN = { required = true }
+DISCORD_CLIENT_ID = { required = true }
+LOG_LEVEL = { default = "INFO" }
+
+[volumes]
+data = "/app/data"
