@@ -1,0 +1,2101 @@
+{
+  "last_sync": "2025-07-09T13:10:36.955089",
+  "total_characters": 209,
+  "characters": [
+    {
+      "id": 66,
+      "name": "Annie Leonhart",
+      "anime": "Attack on Titan",
+      "rarity": "Epic",
+      "value": 600,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1389039509525631087/Carte_-_Shadow_Roll5.png?ex=6866771a&is=6865259a&hm=5208291e6586540c80ac85eeffc71f527a14ac249e6614c48ce832a57b3da27d&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954733"
+    },
+    {
+      "id": 34,
+      "name": "Armin Arlert",
+      "anime": "Attack on Titan",
+      "rarity": "Epic",
+      "value": 750,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1389035450471284856/Carte_-_Shadow_Roll3.png?ex=68667352&is=686521d2&hm=eb28e2d00e6051fd44b6c9007c193b2b4ceb31d7ccf6cfbbb6e26df0de9e267b&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954741"
+    },
+    {
+      "id": 38,
+      "name": "Connie Springer",
+      "anime": "Attack on Titan",
+      "rarity": "Common",
+      "value": 100,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1389041655125905408/Carte_-_Shadow_Roll9.png?ex=68667919&is=68652799&hm=fc65ca5e0958458cd80f33cb0fcdc8476b1c16aa3d40e18d90a10bac85b98b0b&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954743"
+    },
+    {
+      "id": 31,
+      "name": "Eren Yeager",
+      "anime": "Attack on Titan",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1389032452995022919/Carte_-_Shadow_Roll.png?ex=68667087&is=68651f07&hm=5f87aa860a3e3ea582a00bb0e2e0175b6f60dc364336cad5123e7c4cc185471e&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954746"
+    },
+    {
+      "id": 35,
+      "name": "Erwin Smith",
+      "anime": "Attack on Titan",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1391116932186640415/Carte_-_Shadow_Roll_56.png?ex=686aba1a&is=6869689a&hm=7fe7612c00a130ae48c61604c5182edfdf64b220620497204e355f56f1f76988&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954748"
+    },
+    {
+      "id": 36,
+      "name": "Historia Reiss",
+      "anime": "Attack on Titan",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1389040743510704288/Carte_-_Shadow_Roll7.png?ex=68667840&is=686526c0&hm=105e409657055978515860dde7b65cdb10c8ee8b39a797490d668571b4800ce4&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954749"
+    },
+    {
+      "id": 37,
+      "name": "Jean Kirstein",
+      "anime": "Attack on Titan",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1389042739861258250/Carte_-_Shadow_Roll10.png?ex=68667a1c&is=6865289c&hm=135f5918429612e77c4369f7670b0612e39f48b80579f80e7a12a5c584c7eddb&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954751"
+    },
+    {
+      "id": 33,
+      "name": "Levi Ackerman",
+      "anime": "Attack on Titan",
+      "rarity": "Mythic",
+      "value": 2500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1389038878417223731/Carte_-_Shadow_Roll1.gif?ex=68667683&is=68652503&hm=d28806500ab8357e1cba395ad47d32cdb28f964a44a90948580afb2404c6297a&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954752"
+    },
+    {
+      "id": 32,
+      "name": "Mikasa Ackerman",
+      "anime": "Attack on Titan",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1389035072937791528/Carte_-_Shadow_Roll2.png?ex=686672f8&is=68652178&hm=a5590e63d6c3a7d8ef9dd2649eed0c2798b14ad4015cc14fa4148739dd5ac293&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954753"
+    },
+    {
+      "id": 40,
+      "name": "Reiner Braun",
+      "anime": "Attack on Titan",
+      "rarity": "Epic",
+      "value": 650,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1389039879542804562/Carte_-_Shadow_Roll6.png?ex=68667772&is=686525f2&hm=ccc2e5f6f2edd7405ee389608ce091de1a3ad4351e90a64adbcb4f360af04542&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954754"
+    },
+    {
+      "id": 39,
+      "name": "Sasha Blouse",
+      "anime": "Attack on Titan",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030758609584350/1389041311423795260/Carte_-_Shadow_Roll8.png?ex=686678c7&is=68652747&hm=08ca53f68faabdb5fa8cf8bdb0658cb02ddf55815a81f63603f8bd359e39d61e&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954760"
+    },
+    {
+      "id": 163,
+      "name": "Asta",
+      "anime": "Black Clover",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dpaXU4ZmRkaG56OWNxYXNybzMzYmlhb3l0OXZpdG84NWVyczh4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5fCgdz2Exaeu2xb86Z/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954769"
+    },
+    {
+      "id": 167,
+      "name": "Luck Voltia",
+      "anime": "Black Clover",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://cdn.discordapp.com/attachments/1390074451290493099/1390422749146648677/Carte_-_Shadow_Roll_49.png?ex=6868dc58&is=68678ad8&hm=a3096344d8221f234c618acc12c99fcd58183315193955878cdffb2a7b51c3b0&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954770"
+    },
+    {
+      "id": 165,
+      "name": "Noelle Silva",
+      "anime": "Black Clover",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1390074451290493099/1390422774471725166/Carte_-_Shadow_Roll_50.png?ex=6868dc5e&is=68678ade&hm=1c7694db4423e130e18c6f0c400a2c2144f9371f869283d2d4b5cae0561e0f15&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954771"
+    },
+    {
+      "id": 166,
+      "name": "Yami Sukehiro",
+      "anime": "Black Clover",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://cdn.discordapp.com/attachments/1390074451290493099/1390422791739805816/Carte_-_Shadow_Roll_51.png?ex=6868dc62&is=68678ae2&hm=abefd44e010bfb043197dc5b2b6760bb183c271f6ed3358aa4e6fd37b5e0bf4c&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954772"
+    },
+    {
+      "id": 164,
+      "name": "Yuno",
+      "anime": "Black Clover",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVnYjN6MjF3aXl1eW5ibnFueHozNDFuaG5ybGp5ZXVhMnRzaHZqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXIRGs7Eb344wk4DwX/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954773"
+    },
+    {
+      "id": 245,
+      "name": "Alexis Ness",
+      "anime": "Blue Lock",
+      "rarity": "Epic",
+      "value": 24000,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389060208659140710/Carte_-_Shadow_Roll13.png?ex=6867dbe1&is=68668a61&hm=4050227038ad34ab5674435bfc692896fd29b6e536608dec4053834cfaa47392&=&format=webp&quality=lossless&width=550&height=309",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954774"
+    },
+    {
+      "id": 251,
+      "name": "Anri Teieri",
+      "anime": "Blue Lock",
+      "rarity": "Rare",
+      "value": 10000,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389068911324037261/Carte_-_Shadow_Roll20.png?ex=6867e3fc&is=6866927c&hm=2b636ca95fb7908458f3690f342fab20283546a34d7070cd5a42a36265779eea&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954775"
+    },
+    {
+      "id": 241,
+      "name": "Aoshi Tokimitsu",
+      "anime": "Blue Lock",
+      "rarity": "Rare",
+      "value": 450,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389067974874501172/Carte_-_Shadow_Roll17.png?ex=6867e31c&is=6866919c&hm=405f514f133d4c256524ab4d4b5e314715871b99760ded2435e3468cf7ce6ed8&=&format=webp&quality=lossless&width=550&height=309",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954776"
+    },
+    {
+      "id": 238,
+      "name": "Bachira Meguru",
+      "anime": "Blue Lock",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389056621619187772/Carte_-_Shadow_Roll11.png?ex=6867d88a&is=6866870a&hm=d744dc7243b2d6b299a406d67b8a271403ed8a9f737bf8d9d3a270fdaa42a472&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954777"
+    },
+    {
+      "id": 237,
+      "name": "Barou Shoei",
+      "anime": "Blue Lock",
+      "rarity": "Mythic",
+      "value": 5000,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389052321341902971/Carte_-_Shadow_Roll9.gif?ex=6867d488&is=68668308&hm=d8713ba4324cbce4c3441632e3c169b1f5c3c0344c0160244bff2ae98f99f2c8&=&format=webp&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954778"
+    },
+    {
+      "id": 248,
+      "name": "Hiori Yo",
+      "anime": "Blue Lock",
+      "rarity": "Rare",
+      "value": 7500,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389068628132892792/Carte_-_Shadow_Roll19.png?ex=6867e3b8&is=68669238&hm=e916ca9fd1896c95075d1a2fb7707012b6799f532d2b0ab980a7db873740b2a6&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954779"
+    },
+    {
+      "id": 250,
+      "name": "Ikki Niko",
+      "anime": "Blue Lock",
+      "rarity": "Common",
+      "value": 600,
+      "image_url": "https://cdn.discordapp.com/attachments/1389028777195212922/1389070126829146152/Carte_-_Shadow_Roll22.png?ex=6866939d&is=6865421d&hm=82d6701b6075dbf517702375ab33fb46421c12cb0a545f722683a018f0cf3bd3&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954780"
+    },
+    {
+      "id": 236,
+      "name": "Isagi & Bachira",
+      "anime": "Blue Lock",
+      "rarity": "Fusion",
+      "value": 100000,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389045444574969957/Carte_-_Shadow_Roll2.gif?ex=6867ce21&is=68667ca1&hm=e3e9b96ba357df8b5152ed4618b40d5f88b737a3253de900ae7c798fc314c97d&=&width=550&height=309",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954782"
+    },
+    {
+      "id": 240,
+      "name": "Karasu Tabito",
+      "anime": "Blue Lock",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389067589866754118/Carte_-_Shadow_Roll16.png?ex=6867e2c1&is=68669141&hm=10b1373f6415f7fa96dfc1a173ff43210e8a40829f37f6425f03c3195047c859&=&format=webp&quality=lossless&width=550&height=309",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954783"
+    },
+    {
+      "id": 244,
+      "name": "Michael Kaiser",
+      "anime": "Blue Lock",
+      "rarity": "Mythic",
+      "value": 65000,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389055451299319889/Carte_-_Shadow_Roll12.gif?ex=6867d772&is=686685f2&hm=e25a11d89579199ff04e457c39fab2a160b07c45bf488e1123eeea47c386f517&=&width=550&height=309",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954784"
+    },
+    {
+      "id": 235,
+      "name": "Nagi Seishiro",
+      "anime": "Blue Lock",
+      "rarity": "Mythic",
+      "value": 3700,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389055051212918916/Carte_-_Shadow_Roll11.gif?ex=6867d713&is=68668593&hm=0c0eb1fc0cbcb310a8c5dbfbe65efc0d0e9e712af70102d8d01a1df0ac849e98&=&width=550&height=309",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954858"
+    },
+    {
+      "id": 247,
+      "name": "Otoya Eita",
+      "anime": "Blue Lock",
+      "rarity": "Rare",
+      "value": 6000,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389068329230139442/Carte_-_Shadow_Roll18.png?ex=6867e371&is=686691f1&hm=4e4e9028c70b227bcfbd016a5f1fc57e27fa5a4ff8a15e6f7ed9428d43f4be65&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954860"
+    },
+    {
+      "id": 239,
+      "name": "Reo Mikage",
+      "anime": "Blue Lock",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389060841453654137/Carte_-_Shadow_Roll14.png?ex=6867dc78&is=68668af8&hm=d2233bcb00f29800a4a22cb477c3fe24c69026a2581b53d2a4442cb633496a68&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954861"
+    },
+    {
+      "id": 232,
+      "name": "Rin Itoshi",
+      "anime": "Blue Lock",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389046293594116267/Carte_-_Shadow_Roll3.gif?ex=6867ceeb&is=68667d6b&hm=8ddbabd2a2588c3607508dae1c6158c2363bac5ffc94a4c56f0d4dc152b2ce92&=&width=550&height=309",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954865"
+    },
+    {
+      "id": 243,
+      "name": "Sae Itoshi",
+      "anime": "Blue Lock",
+      "rarity": "Legendary",
+      "value": 44000,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389059375561314364/Carte_-_Shadow_Roll12.png?ex=6867db1a&is=6866899a&hm=78568fd46ae33445d4572b578a4c7405bd077f1b3f513229faf9da360bec949d&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954866"
+    },
+    {
+      "id": 233,
+      "name": "Shidou Ryusei",
+      "anime": "Blue Lock",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389050292045353031/Carte_-_Shadow_Roll7.gif?ex=6867d2a4&is=68668124&hm=3528ea14cc1976b80ccf44338a5577ecfdd076565e1ed0f0a2645119ab5204b4&=&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954867"
+    },
+    {
+      "id": 234,
+      "name": "Yoichi Isagi",
+      "anime": "Blue Lock",
+      "rarity": "Mythic",
+      "value": 3800,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389053076434063451/Carte_-_Shadow_Roll10.gif?ex=6867d53c&is=686683bc&hm=f1efc9a92a60ccb69c959ba5d592c3665061f3e082325a894509719575ee89b6&=&width=550&height=309",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954868"
+    },
+    {
+      "id": 246,
+      "name": "Yukimiya Kenyu",
+      "anime": "Blue Lock",
+      "rarity": "Epic",
+      "value": 17000,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389061136254767205/Carte_-_Shadow_Roll15.png?ex=6867dcbe&is=68668b3e&hm=38703c916a120af1dd63fc3fd5b4b00b8c938fc3f63c5b7edc8bc0f91239648a&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954869"
+    },
+    {
+      "id": 249,
+      "name": "Zantetsu Tsurugi",
+      "anime": "Blue Lock",
+      "rarity": "Common",
+      "value": 500,
+      "image_url": "https://media.discordapp.net/attachments/1389028777195212922/1389069635218968667/Carte_-_Shadow_Roll21.png?ex=6867e4a8&is=68669328&hm=8b3835613b46690eba0cfc7435036ce694a9b32e9b2e983ea4d40d87eb1745d2&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954870"
+    },
+    {
+      "id": 319,
+      "name": "Kou Yamori",
+      "anime": "Call Of The Night",
+      "rarity": "Rare",
+      "value": 7000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391574339849158696/Carte_-_Shadow_Roll13.png?ex=686d0cd8&is=686bbb58&hm=9bcb408b19106d623375d4031bfc75aad08cecc8d801fc294e9fd9af5892a9de&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954871"
+    },
+    {
+      "id": 302,
+      "name": "Kyouko Mejiro",
+      "anime": "Call Of The Night",
+      "rarity": "Mythic",
+      "value": 65000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391206728980369508/Carte_-_Shadow_Roll13.gif?ex=686b0dbb&is=6869bc3b&hm=9fea60faed268603ab8fc6905c093a4b08b4433c5c440fd376ca84f154ccde86&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954872"
+    },
+    {
+      "id": 321,
+      "name": "Midori Kohakobe",
+      "anime": "Call Of The Night",
+      "rarity": "Epic",
+      "value": 24000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391574918692339842/Carte_-_Shadow_Roll15.png?ex=686d0d62&is=686bbbe2&hm=0dbb461d616bd71f7c1230cb57438b95ea09dc753328c89c04090e02b97fe6d1&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954873"
+    },
+    {
+      "id": 301,
+      "name": "Nazuna Nanakusa",
+      "anime": "Call Of The Night",
+      "rarity": "Mythic",
+      "value": 72500,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391205728601116742/Carte_-_Shadow_Roll12.gif?ex=686b0ccd&is=6869bb4d&hm=88e2396b0bb7ef0b8f01d5072132c1457f3aea5c381417550398a97898a981af&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954874"
+    },
+    {
+      "id": 320,
+      "name": "Seri Kikyo",
+      "anime": "Call Of The Night",
+      "rarity": "Epic",
+      "value": 18000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391574574302232607/Carte_-_Shadow_Roll14.png?ex=686d0d10&is=686bbb90&hm=a2877d4a4712d0550c6729526c94e569bbfc6008ffaafaa20c5ad3e921f5a498&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954875"
+    },
+    {
+      "id": 200,
+      "name": "Denji",
+      "anime": "Chainsaw Man",
+      "rarity": "Legendary",
+      "value": 1350,
+      "image_url": "https://cdn.discordapp.com/attachments/1390074934142828574/1390416458030387230/Carte_-_Shadow_Roll_35.gif?ex=6868d67c&is=686784fc&hm=c6dedc6a93bedb14175aa7d6dff0c95713ff1b38c82a8099d88d136c82aaf8a1&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954877"
+    },
+    {
+      "id": 202,
+      "name": "Makima",
+      "anime": "Chainsaw Man",
+      "rarity": "Mythic",
+      "value": 3800,
+      "image_url": "https://cdn.discordapp.com/attachments/1390074934142828574/1390417188556374057/Carte_-_Shadow_Roll_36.gif?ex=6868d72a&is=686785aa&hm=4807807c19c727aea13bb38493a748978ae54367a482f3f57054df4ace9f361f&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954878"
+    },
+    {
+      "id": 308,
+      "name": "Pochita",
+      "anime": "Chainsaw Man",
+      "rarity": "Rare",
+      "value": 8500,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391192457688911953/Carte_-_Shadow_Roll1.png?ex=686b0071&is=6869aef1&hm=7468057ca3902ba686ee24bd32e8594e1af892624a834232064afa037493c665&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954879"
+    },
+    {
+      "id": 201,
+      "name": "Power",
+      "anime": "Chainsaw Man",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1390074934142828574/1390416599466508390/Carte_-_Shadow_Roll_45.png?ex=6868d69e&is=6867851e&hm=50ffcd134719790f261b8d89dae067ee4faeef670c30db3b150b2867b1491432&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954880"
+    },
+    {
+      "id": 222,
+      "name": "L",
+      "anime": "Death Note",
+      "rarity": "Mythic",
+      "value": 3500,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081153226113124/1390412896135020626/Carte_-_Shadow_Roll_32.gif?ex=6868d32b&is=686781ab&hm=4fb47e8722a27f8c06c477daed7385de23636212d367949a4a2447eddbdb4b7c&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954881"
+    },
+    {
+      "id": 221,
+      "name": "Light Yagami",
+      "anime": "Death Note",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081153226113124/1390413305172070511/Carte_-_Shadow_Roll_33.gif?ex=6868d38c&is=6867820c&hm=bf25d7c7ab6253837937d10a3e9ba51c3656262b4815abd2c0a431be3242648b&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954882"
+    },
+    {
+      "id": 225,
+      "name": "Mello",
+      "anime": "Death Note",
+      "rarity": "Epic",
+      "value": 650,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081153226113124/1390413607166021742/Carte_-_Shadow_Roll_42.png?ex=6868d3d4&is=68678254&hm=2416733538ae1af902c3c2bb5e480f8adec272c14e706911d8ddd1231a88f08b&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954883"
+    },
+    {
+      "id": 223,
+      "name": "Misa Amane",
+      "anime": "Death Note",
+      "rarity": "Epic",
+      "value": 600,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081153226113124/1390413761910800604/Carte_-_Shadow_Roll_43.png?ex=6868d3f9&is=68678279&hm=a464006119c585dad5a9328195a4e9b9715235d182192ab6a95eb2472696bc51&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954884"
+    },
+    {
+      "id": 224,
+      "name": "Near",
+      "anime": "Death Note",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081153226113124/1390413954362118335/Carte_-_Shadow_Roll_44.png?ex=6868d427&is=686782a7&hm=58c5c7bc7626fae97e0ee9cbd32082e5de9ba5ce6dc0e009916518ec62217685&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954885"
+    },
+    {
+      "id": 226,
+      "name": "Ryuk",
+      "anime": "Death Note",
+      "rarity": "Legendary",
+      "value": 1200,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081153226113124/1390414353127182356/Carte_-_Shadow_Roll_34.gif?ex=6868d486&is=68678306&hm=d55e464ccab07f190cdbe5f4f121d1610fdeb07ebc548d2fb5240ec48cf31f83&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954887"
+    },
+    {
+      "id": 56,
+      "name": "Giyu Tomioka",
+      "anime": "Demon Slayer",
+      "rarity": "Epic",
+      "value": 900,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031039879610408/1391134948261363843/Carte_-_Shadow_Roll_67.png?ex=686acae1&is=68697961&hm=0962793b727fb91f691ff139a040eaf30d2c455c2af3ce4703b480846cf93e3d&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954888"
+    },
+    {
+      "id": 55,
+      "name": "Inosuke Hashibira",
+      "anime": "Demon Slayer",
+      "rarity": "Epic",
+      "value": 550,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031039879610408/1391135259843887354/Carte_-_Shadow_Roll_68.png?ex=686acb2b&is=686979ab&hm=166f092ea5ae750483ace5988e2e513132165e5143757002094a65055a10194a&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954889"
+    },
+    {
+      "id": 58,
+      "name": "Kyojuro Rengoku",
+      "anime": "Demon Slayer",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031039879610408/1391135290449592440/Carte_-_Shadow_Roll_69.png?ex=686acb33&is=686979b3&hm=9465782e8b57c6910ff75730970c6754002a1c31ea94345f3ea7183e74fe4482&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954890"
+    },
+    {
+      "id": 60,
+      "name": "Mitsuri Kanroji",
+      "anime": "Demon Slayer",
+      "rarity": "Rare",
+      "value": 450,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031039879610408/1391135731547635856/Carte_-_Shadow_Roll_70.png?ex=686acb9c&is=68697a1c&hm=7e1f8fe35736b17e5671a0e717b2c5f8a1571b2b969491df94af1fe7e35286af&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954891"
+    },
+    {
+      "id": 61,
+      "name": "Muzan Kibutsuji",
+      "anime": "Demon Slayer",
+      "rarity": "Mythic",
+      "value": 3000,
+      "image_url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBpZTlreWhwb3BjMjJyM2ZwNW5jeDljdDlra3NueXNod2xtajBieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bq2Pb1GN4bsAHfMZzI/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954892"
+    },
+    {
+      "id": 53,
+      "name": "Nezuko Kamado",
+      "anime": "Demon Slayer",
+      "rarity": "Legendary",
+      "value": 1100,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031039879610408/1391137359973711872/Carte_-_Shadow_Roll_71.png?ex=686acd20&is=68697ba0&hm=9e6c95394384c1dbb04d779ddb8d3a5b63bdac78de3a0983654afef26c0b9ed5&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954894"
+    },
+    {
+      "id": 57,
+      "name": "Shinobu Kocho",
+      "anime": "Demon Slayer",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031039879610408/1391137505901809824/Carte_-_Shadow_Roll_72.png?ex=686acd43&is=68697bc3&hm=520584e8257d991ed5f26f9fd809770ab2c98603a8dd1b1f722aadd541c29427&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954895"
+    },
+    {
+      "id": 52,
+      "name": "Tanjiro Kamado",
+      "anime": "Demon Slayer",
+      "rarity": "Legendary",
+      "value": 1200,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031039879610408/1391137719991931110/Carte_-_Shadow_Roll_73.png?ex=686acd76&is=68697bf6&hm=2d3f92616c253735453d98cffeab4bb79a5af74d47c38778e62d98f467b2ce6e&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954897"
+    },
+    {
+      "id": 59,
+      "name": "Tengen Uzui",
+      "anime": "Demon Slayer",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031039879610408/1391137879698178068/Carte_-_Shadow_Roll_74.png?ex=686acd9c&is=68697c1c&hm=a704bad48633f7780d7fae40f9104b2aa1f788ed312fd0fa81b2ca19937bd225&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954898"
+    },
+    {
+      "id": 54,
+      "name": "Zenitsu Agatsuma",
+      "anime": "Demon Slayer",
+      "rarity": "Epic",
+      "value": 600,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031039879610408/1391138014343987311/Carte_-_Shadow_Roll_75.png?ex=686acdbc&is=68697c3c&hm=b3dc1f079e0e65ed69488d9d22bd94ad771ea6b1b934c2aca3f08605544a7310&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954899"
+    },
+    {
+      "id": 26,
+      "name": "Cell",
+      "anime": "Dragon Ball",
+      "rarity": "Mythic",
+      "value": 3600,
+      "image_url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BwaWxnZGR1YTNuemc1MGJwZ2J1bmN0dzBoc20xc2dwaHN6anFqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a3qEc286JzSZVP9ayo/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954900"
+    },
+    {
+      "id": 265,
+      "name": "Cell Perfect Evolve",
+      "anime": "Dragon Ball",
+      "rarity": "Evolve",
+      "value": 200000,
+      "image_url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R2M201b2pyZjBzaDE4OGJubjJvNjc1Y3NoaXc0MGg0OW42anB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h3fGmxNEuHl8gQismg/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954901"
+    },
+    {
+      "id": 25,
+      "name": "Frieza",
+      "anime": "Dragon Ball",
+      "rarity": "Mythic",
+      "value": 3800,
+      "image_url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU2eGE3ZHc2ZmhjZWdsM2tyOXJicDJhMTIzcGVlb2U5a3pkNGZociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/80nsCgV7QjOoUy7j4N/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954902"
+    },
+    {
+      "id": 231,
+      "name": "Goku and Vegeta",
+      "anime": "Dragon Ball",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc256YXozYmlrd3dpajA4dTd0ZGVzZnd5cTJvYXU5bjlnYXE1YzJuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/crRKr1PNW7xmVjXj0w/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954903"
+    },
+    {
+      "id": 29,
+      "name": "Krillin",
+      "anime": "Dragon Ball",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://cdn.discordapp.com/attachments/1389027262178922529/1391142506246312067/Carte_-_Shadow_Roll_80.png?ex=686ad1eb&is=6869806b&hm=21e32bfb1212448ca80849dbebc226a03abc80cfe19b64720fda09b4be913d5b&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954904"
+    },
+    {
+      "id": 27,
+      "name": "Majin Buu",
+      "anime": "Dragon Ball",
+      "rarity": "Mythic",
+      "value": 3400,
+      "image_url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGg2MW5pcTdsYnFpdXZoMjQwNzlzZmMzcDZrNWllMHI0ejFlandoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNp84Nk9ORZUHjcEy2/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954905"
+    },
+    {
+      "id": 24,
+      "name": "Piccolo",
+      "anime": "Dragon Ball",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://cdn.discordapp.com/attachments/1389027262178922529/1391142032465985557/Carte_-_Shadow_Roll_78.png?ex=686ad17a&is=68697ffa&hm=a37054d04602bf6d108627a4624a507e98a5d9fb9dedbf95c96f10aac4341ce7&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954906"
+    },
+    {
+      "id": 23,
+      "name": "Son Gohan",
+      "anime": "Dragon Ball",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://cdn.discordapp.com/attachments/1389027262178922529/1391141777351770263/Carte_-_Shadow_Roll_77.png?ex=686ad13d&is=68697fbd&hm=3cd282c75ec29fecd4396afcff3e255bcb010ac8dbedaf5642a59db84104df0a&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954907"
+    },
+    {
+      "id": 21,
+      "name": "Son Goku",
+      "anime": "Dragon Ball",
+      "rarity": "Titan",
+      "value": 45000,
+      "image_url": "https://cdn.discordapp.com/attachments/1389027262178922529/1389369933934100520/Carte_-_Shadow_Roll4.gif?ex=686a4dd5&is=6868fc55&hm=b81f53aaa78029d5ac8e0a24809646ca32be2126bf4a01e64841145c3942ceb5&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954909"
+    },
+    {
+      "id": 28,
+      "name": "Trunks",
+      "anime": "Dragon Ball",
+      "rarity": "Epic",
+      "value": 750,
+      "image_url": "https://cdn.discordapp.com/attachments/1389027262178922529/1391142405121769653/Carte_-_Shadow_Roll_79.png?ex=686ad1d3&is=68698053&hm=0b805929d0a526682967e46c3d6f01b5c084bb9aa474b942aca0261884718255&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954910"
+    },
+    {
+      "id": 22,
+      "name": "Vegeta",
+      "anime": "Dragon Ball",
+      "rarity": "Legendary",
+      "value": 1600,
+      "image_url": "https://cdn.discordapp.com/attachments/1389027262178922529/1389370353662296275/Carte_-_Shadow_Roll.png?ex=686a4e39&is=6868fcb9&hm=a68fe68594fe9c1ea75479bd3497537a99cb1906164e93c188f275877f320316&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954911"
+    },
+    {
+      "id": 30,
+      "name": "Yamcha",
+      "anime": "Dragon Ball",
+      "rarity": "Rare",
+      "value": 10000,
+      "image_url": "https://cdn.discordapp.com/attachments/1389027262178922529/1391145630944202802/Carte_-_Shadow_Roll_82.png?ex=686ccf14&is=686b7d94&hm=370e56e7d5a48a4c4ed7adec373cf6dc63774cca2e95ff26c491345fbae69d52&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954912"
+    },
+    {
+      "id": 180,
+      "name": "Erza Scarlet",
+      "anime": "Fairy Tail",
+      "rarity": "Common",
+      "value": 600,
+      "image_url": "https://cdn.discordapp.com/attachments/1390082622134292551/1390409355928666172/Carte_-_Shadow_Roll_38.png?ex=6868cfdf&is=68677e5f&hm=29e1e9a58043e46aedc7228b5877b550f1307a0c288e84056cf53003a243e0fb&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954913"
+    },
+    {
+      "id": 179,
+      "name": "Gray Fullbuster",
+      "anime": "Fairy Tail",
+      "rarity": "Rare",
+      "value": 9000,
+      "image_url": "https://cdn.discordapp.com/attachments/1390082622134292551/1390409459704004608/Carte_-_Shadow_Roll_39.png?ex=6868cff7&is=68677e77&hm=434d02c74d61c5edaa47a421a393b3cd130283fe74474dc11e42aa792068c3c5&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954914"
+    },
+    {
+      "id": 178,
+      "name": "Lucy Heartfilia",
+      "anime": "Fairy Tail",
+      "rarity": "Rare",
+      "value": 6500,
+      "image_url": "https://cdn.discordapp.com/attachments/1390082622134292551/1390409540767453284/Carte_-_Shadow_Roll_40.png?ex=6868d00b&is=68677e8b&hm=e185b34ee2ab4c48526ce22c31387b53462b46f77700c6cf60062e8ee158cbf9&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954916"
+    },
+    {
+      "id": 177,
+      "name": "Natsu Dragneel",
+      "anime": "Fairy Tail",
+      "rarity": "Mythic",
+      "value": 65000,
+      "image_url": "https://cdn.discordapp.com/attachments/1390082622134292551/1390410173755162664/Carte_-_Shadow_Roll_31.gif?ex=6868d0a1&is=68677f21&hm=70880a34b9b00a1ecaabf103db5a0234abea8d00aaa79bd1f58e9179ee22bd60&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954917"
+    },
+    {
+      "id": 181,
+      "name": "Zeref",
+      "anime": "Fairy Tail",
+      "rarity": "Legendary",
+      "value": 44000,
+      "image_url": "https://cdn.discordapp.com/attachments/1390082622134292551/1390410264142413845/Carte_-_Shadow_Roll_41.png?ex=6868d0b7&is=68677f37&hm=17b9cf823274b15d8335b2d93413890610f215ce7f29e018c7398197762e2f3d&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954918"
+    },
+    {
+      "id": 323,
+      "name": "Emiya",
+      "anime": "Fate Stay Night",
+      "rarity": "Rare",
+      "value": 8000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391577555810648134/Carte_-_Shadow_Roll18.png?ex=686d0fd7&is=686bbe57&hm=05be33f4347b1ae5ea4abe7e3a2fa64da51986ab818ea13aa37226cc75134be3&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954919"
+    },
+    {
+      "id": 322,
+      "name": "Saber Alter",
+      "anime": "Fate Stay Night",
+      "rarity": "Titan",
+      "value": 100000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391576939726241843/Carte_-_Shadow_Roll23.gif?ex=686d0f44&is=686bbdc4&hm=e03b22a2d4f10ee6be34b3b7eec433fa1e21597c79cc9e017007bf333d1161af&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954920"
+    },
+    {
+      "id": 273,
+      "name": "Ballora",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Epic",
+      "value": 15000,
+      "image_url": "https://cdn.discordapp.com/attachments/1389884933262020688/1389891244133453844/Carte_-_Shadow_Roll_19.png?ex=6868e797&is=68679617&hm=46e7a8f66ad39a5c84b38d61d0279cfd4990619ba500ec3efd49608e81376f5e&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954921"
+    },
+    {
+      "id": 267,
+      "name": "Bonnie",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Mythic",
+      "value": 67500,
+      "image_url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW8wcG9ienluNzA3cG01MHJtNGZzNXAzOG8wYXUyanU0NnRodzdveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m4JKXaTKlq8FIHTkyU/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954922"
+    },
+    {
+      "id": 268,
+      "name": "Chica",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Mythic",
+      "value": 67500,
+      "image_url": "https://media.giphy.com/media/FsekSLCx5HClySklG7/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954925"
+    },
+    {
+      "id": 274,
+      "name": "Circus Baby",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Epic",
+      "value": 19000,
+      "image_url": "https://cdn.discordapp.com/attachments/1389884933262020688/1389892101759828029/Carte_-_Shadow_Roll_21.png?ex=6868e864&is=686796e4&hm=f88bdd0766891ad6f4d3b201970f094cfcc4187d263f3235b496dcdb4018841a&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954926"
+    },
+    {
+      "id": 269,
+      "name": "Foxy",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Mythic",
+      "value": 67500,
+      "image_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5sNDg4ZXpzYndrYjZ6OHptODYxcDhuZ281dWdsajluOW50ZzJ4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tsdQjLZTJSvQ3zK41E/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954927"
+    },
+    {
+      "id": 266,
+      "name": "Freddy Fazbear",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Mythic",
+      "value": 65000,
+      "image_url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Brdmk2ZWNoYjlub3MyNmQ2Y3l5Zm8wNGlieDR0N2s1YWN5M2R5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6CsEOs44O17PM2DPrU/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954928"
+    },
+    {
+      "id": 270,
+      "name": "Golden Freddy",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Titan",
+      "value": 100000,
+      "image_url": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp6MHc2aHYzYjB2OTY2NzI4dHcyZnhxdGExM3BzaWtmZTJicG9nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b9xStRCDzSQjCBHkX7/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954929"
+    },
+    {
+      "id": 271,
+      "name": "Springtrap",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Titan",
+      "value": 100000,
+      "image_url": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxwZzBzcDZtenpncG5hbjduZ2loczk5dGZ6bXh3b2VpeXBpZXc1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KJrmpwvwbayPyh8xwZ/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954930"
+    },
+    {
+      "id": 272,
+      "name": "The Puppet",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Titan",
+      "value": 100000,
+      "image_url": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNkdjZua282dHZvdmE2ZnpueTkwanFzNzFrN3cycTJnMXJwMzdtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbzEiv3f8ebGcoM0tK/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954931"
+    },
+    {
+      "id": 168,
+      "name": "Gon Freecss",
+      "anime": "Hunter x Hunter",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030977396805834/1390423819625435317/Carte_-_Shadow_Roll_52.png?ex=6868dd57&is=68678bd7&hm=12097bcd0c96848e83c260d563a5fcf355d9e056197d73fd6763efbae43f200a&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954933"
+    },
+    {
+      "id": 172,
+      "name": "Hisoka Morow",
+      "anime": "Hunter x Hunter",
+      "rarity": "Mythic",
+      "value": 3700,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030977396805834/1390423865343348838/Carte_-_Shadow_Roll_39.gif?ex=6868dd62&is=68678be2&hm=0e5aa51104e497935af6ce16f3df22b9b25cdfb24a25e05b9a29cdb74a28cb79&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954935"
+    },
+    {
+      "id": 169,
+      "name": "Killua Zoldyck",
+      "anime": "Hunter x Hunter",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030977396805834/1390424094104883221/Carte_-_Shadow_Roll_53.png?ex=6868dd98&is=68678c18&hm=44b1a90ddeeeb4da49798420dff07298ba5d785fbf88b26c1bd7ed3d33044068&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954936"
+    },
+    {
+      "id": 170,
+      "name": "Kurapika",
+      "anime": "Hunter x Hunter",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030977396805834/1390424304948084886/Carte_-_Shadow_Roll_54.png?ex=6868ddcb&is=68678c4b&hm=bc4d11ee7af4cdc25682ac223527de64c80d1440b6e485e417ff172cd0a0a33e&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954937"
+    },
+    {
+      "id": 171,
+      "name": "Leorio Paradinight",
+      "anime": "Hunter x Hunter",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030977396805834/1390424437123321907/Carte_-_Shadow_Roll_55.png?ex=6868ddea&is=68678c6a&hm=6cb36f3ffaa2f254105b4c3f10464191c7fcbe001b580e7e7cf4e92f16890c1d&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954938"
+    },
+    {
+      "id": 160,
+      "name": "Dio Brando",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Mythic",
+      "value": 4000,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389026516930789536/Carte_-_Shadow_Roll_4.gif?ex=68631f40&is=6861cdc0&hm=0c918c0bf32281a066bc7fa06eb58de0426799a7ef1133056b133641ebfce513&=&width=1440&height=810",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954939"
+    },
+    {
+      "id": 264,
+      "name": "Dio Brando Evolve",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Evolve",
+      "value": 150000,
+      "image_url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZvbTJpZWd5cjh3bnRydWNhd2d3cTJoZWFwcWV4MDJyZXJ4YzNhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcNfEZhtGS5omhPDi/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954940"
+    },
+    {
+      "id": 216,
+      "name": "Dio vs Jotaro",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh3cmk3cmV6cndlN3kyNWhobXRsdmk1YTJvNGFtamx1and6c3Z0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lewjDWQrmAazAFNoNi/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954941"
+    },
+    {
+      "id": 162,
+      "name": "Enrico Pucci",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Mythic",
+      "value": 3900,
+      "image_url": "https://images-ext-1.discordapp.net/external/exWZ5rC2kdiuoTrWbThPhfJpnaaZDhQjc_QGP6Ifdnw/https/media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h3cWg4bHRoamdmYWNkdmZnaXg0bGhsYWYwMTE2Z3JpMWF3aXgxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gKeELKx2ekXs9X1KN5/giphy.gif?width=500&height=281",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954942"
+    },
+    {
+      "id": 158,
+      "name": "Giorno Giovanna",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Legendary",
+      "value": 1700,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389018118600261672/Carte_-_Shadow_Roll_2.png?ex=6863176e&is=6861c5ee&hm=666f4790289d42f35b2160ca9d92c869fd0468c7cfee24da2a94856af81f18e9&=&format=webp&quality=lossless&width=1635&height=920",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954943"
+    },
+    {
+      "id": 230,
+      "name": "JoJo & Caesar",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://i.pinimg.com/originals/cf/1b/fc/cf1bfcc77625c6d5e7436ada3a92ec00.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954944"
+    },
+    {
+      "id": 159,
+      "name": "Jolyne Cujoh",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Legendary",
+      "value": 1600,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389018314054832138/Carte_-_Shadow_Roll_3.png?ex=6863179c&is=6861c61c&hm=55ae8e942a760d9289bb9a66f47955a167c1987a67a7b7aafdf251a7eae73cc4&=&format=webp&quality=lossless&width=1635&height=920",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954945"
+    },
+    {
+      "id": 154,
+      "name": "Jonathan Joestar",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389013470837604402/Legendary_-_Shadow_Roll.png?ex=6863131a&is=6861c19a&hm=f393da411f5b6ae861e6289be1e8bf377d56b904bba1a04227c71a3531368fe2&=&format=webp&quality=lossless&width=1635&height=920",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954946"
+    },
+    {
+      "id": 213,
+      "name": "Joseph Joestar",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://drive.google.com/file/d/1mU6WAyesgaz7-V1M2q66Mqo8T6ey5zhl/view?usp=drive_link",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954947"
+    },
+    {
+      "id": 157,
+      "name": "Josuke Higashikata",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Legendary",
+      "value": 1600,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389017945832685618/Carte_-_Shadow_Roll_1.png?ex=68631744&is=6861c5c4&hm=f60a854488f415fdcfbe6f7599bca34ca39ec57b718cfee338f2b3705dec1ef7&=&format=webp&quality=lossless&width=1635&height=920",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954948"
+    },
+    {
+      "id": 156,
+      "name": "Jotaro Kujo",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Legendary",
+      "value": 1700,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389016622429241405/Carte_-_Shadow_Roll.png?ex=68631609&is=6861c489&hm=61cbedb718ee47bf913fa3d89f10c526f1b995a2b57d412c185441daa58e3b49&=&format=webp&quality=lossless&width=1635&height=920",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954949"
+    },
+    {
+      "id": 161,
+      "name": "Kars",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Mythic",
+      "value": 4200,
+      "image_url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJhMG9qcXZ0Z3ExbmE5YjVmemduYTAwN3did3Y3M2dnb2twbm00OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IUMiSnqYrEB8hDYGsF/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954951"
+    },
+    {
+      "id": 288,
+      "name": "Gojo",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Titan",
+      "value": 100000,
+      "image_url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM4dWF2dG9oYnJpNDc4MzFtdDF6ZzlmYjNrZjZ6dHkyZmp0enNneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7KM9OJ2BBRYF8S1BeI/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954952"
+    },
+    {
+      "id": 295,
+      "name": "Kasumi Miwa",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Rare",
+      "value": 5500,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391194913470943322/Carte_-_Shadow_Roll3.png?ex=686b02ba&is=6869b13a&hm=a5d9ce0ebb549ad9ccf057a6696772a9aaba671be637bc2ee3cbb97d73491e68&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954953"
+    },
+    {
+      "id": 296,
+      "name": "Mahoraga",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Evolve",
+      "value": 200000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391199611313586346/Carte_-_Shadow_Roll7.gif?ex=686b071a&is=6869b59a&hm=e31e44d815467cdd2ea11c78024f268be24def7a8698d9d5b1419fc667dd8c71&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954955"
+    },
+    {
+      "id": 191,
+      "name": "Megumi Fushiguro",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1390071426467500174/1390401681916956712/Carte_-_Shadow_Roll_35.png?ex=6868c8b9&is=68677739&hm=938fb9e09e127ca20089f5dc26b45b41027bee3285fb748e83dcad645e92e133&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954956"
+    },
+    {
+      "id": 192,
+      "name": "Nobara Kugisaki",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1390071426467500174/1390401699876700190/Carte_-_Shadow_Roll_36.png?ex=6868c8bd&is=6867773d&hm=b21a01f36516249629cf9c301f6fd3dbfcb591953a4e461c16a6e079c351b29f&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954957"
+    },
+    {
+      "id": 193,
+      "name": "Sukuna",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Mythic",
+      "value": 3500,
+      "image_url": "https://cdn.discordapp.com/attachments/1390071426467500174/1390402505292382420/Carte_-_Shadow_Roll_28.gif?ex=6868c97d&is=686777fd&hm=a73ec9df3aba1e3074d0fac41ec195230fe2adb9935f77972fd477d1f3c72c3c&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954958"
+    },
+    {
+      "id": 297,
+      "name": "Toji Fushiguro",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Titan",
+      "value": 100000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391203775770918932/Carte_-_Shadow_Roll11.gif?ex=686b0afb&is=6869b97b&hm=4341e34cae87a0014499e67920b3a34db772bbdc1e18a090936b6ace8cc97eb0&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954959"
+    },
+    {
+      "id": 289,
+      "name": "Yuji & Aoi",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FocDZoNzhjZDllOTJzZDdpdXRhbHUwMndqazkxeW5yNmNwcGU1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zlItJ0D9DbPvk8tZhb/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954960"
+    },
+    {
+      "id": 190,
+      "name": "Yuji Itadori",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://cdn.discordapp.com/attachments/1390071426467500174/1390402500070342766/Carte_-_Shadow_Roll_37.png?ex=6868c97c&is=686777fc&hm=b2c99e51d38abf7e40d64b631f1d08bb5380387965ea20841a2f5a2ed1058670&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954961"
+    },
+    {
+      "id": 189,
+      "name": "Kazuma Satou",
+      "anime": "Konosuba",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://media.discordapp.net/attachments/1390072193463091200/1390297188067967046/Carte_-_Shadow_Roll_28.png?ex=6867bea8&is=68666d28&hm=198389bd32b65df559fde88f1205bac49bd32e70d0a35ea6f6c87f6029a628b2&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954962"
+    },
+    {
+      "id": 188,
+      "name": "Megumin",
+      "anime": "Konosuba",
+      "rarity": "Epic",
+      "value": 600,
+      "image_url": "https://media.discordapp.net/attachments/1390072193463091200/1390297023806177301/Carte_-_Shadow_Roll_26.png?ex=6867be80&is=68666d00&hm=beb04c1b885daa5a60a1df0de484e1b19ae83f972d46724c03d31034dc51a92a&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954963"
+    },
+    {
+      "id": 309,
+      "name": "Gigachad",
+      "anime": "Meme",
+      "rarity": "Titan",
+      "value": 100000,
+      "image_url": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHY0NGplbjJzb2IxZG9nZWlsNHhmNWkwM3Uxd2R6cDB0Zm16azNzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nfOLV2zdsMHuxwXe7I/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954964"
+    },
+    {
+      "id": 310,
+      "name": "Maxwell the Cat",
+      "anime": "Meme",
+      "rarity": "Epic",
+      "value": 16000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391565878151221268/Carte_-_Shadow_Roll8.png?ex=686d04f7&is=686bb377&hm=8801e29c7ad5c8ee21f070e46c36b95fe441688bf7dd279ea81fec7b7a993aa0&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954965"
+    },
+    {
+      "id": 300,
+      "name": "Anko Koshi",
+      "anime": "My Deer Friend Nekotan",
+      "rarity": "Epic",
+      "value": 21000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391204797037936661/Carte_-_Shadow_Roll6.png?ex=686b0bee&is=6869ba6e&hm=39c2ea2bb514401d9d2fa130a86c159edd480489052182b28609f353620c7300&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954966"
+    },
+    {
+      "id": 298,
+      "name": "Noko Shikanoko",
+      "anime": "My Deer Friend Nekotan",
+      "rarity": "Legendary",
+      "value": 46000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391204199294959780/Carte_-_Shadow_Roll4.png?ex=686b0b60&is=6869b9e0&hm=d999007ba54088f26a8132c495de87d7cb04f6c9af596f23b9d22339215117b6&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954968"
+    },
+    {
+      "id": 299,
+      "name": "Torako Koshi",
+      "anime": "My Deer Friend Nekotan",
+      "rarity": "Legendary",
+      "value": 50000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391204482163150868/Carte_-_Shadow_Roll5.png?ex=686b0ba3&is=6869ba23&hm=0e2e4f09b536186cbc5ab3d9def8242d2aa19a476d74a9370bf6dff4713f2480&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954969"
+    },
+    {
+      "id": 81,
+      "name": "All Might",
+      "anime": "My Hero Academia",
+      "rarity": "Mythic",
+      "value": 3600,
+      "image_url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBjcTByMDAwa2U0dWNqYm90bjBheWk1c2QxZzZwY3YyY3NjcHRyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5lBtw2LgWgW8NuEos/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954970"
+    },
+    {
+      "id": 80,
+      "name": "Denki Kaminari",
+      "anime": "My Hero Academia",
+      "rarity": "Common",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124669029875782/1390084217446076597/Carte_-_Shadow_Roll_22.png?ex=6866f84f&is=6865a6cf&hm=2d8b8d5ed1ada1810470253e58c956b6eacd1f77d21346c57bfd3469debf8e8e&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954971"
+    },
+    {
+      "id": 79,
+      "name": "Eijiro Kirishima",
+      "anime": "My Hero Academia",
+      "rarity": "Rare",
+      "value": 9500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124669029875782/1390084353463287959/Carte_-_Shadow_Roll_23.png?ex=6866f870&is=6865a6f0&hm=9543d0dbfe6b382caae961a63d5c75c05db77a6e8137736be4892e4090420c18&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954972"
+    },
+    {
+      "id": 228,
+      "name": "Endeavor",
+      "anime": "My Hero Academia",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGp3eWlocWp5b2N2NnY3cDNpa2IxNWU2ZzB3Y3J3bWRmMHVpN204eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HB6XxldjyvsrkXHMdE/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954974"
+    },
+    {
+      "id": 227,
+      "name": "Eraser Head",
+      "anime": "My Hero Academia",
+      "rarity": "Epic",
+      "value": 750,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124669029875782/1389154945818824794/Carte_-_Shadow_Roll_11.png?ex=686639dc&is=6864e85c&hm=4aa4ceac64682dc560734408a76e3c3697e2fcf9dd091e364b34e7521807523a&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954975"
+    },
+    {
+      "id": 72,
+      "name": "Izuku Midoriya",
+      "anime": "My Hero Academia",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124669029875782/1389150733810798622/Carte_-_Shadow_Roll_5.png?ex=686635f0&is=6864e470&hm=7709563df4717aec85c6e7460f4e86ac39cf0ab1de5ce2cea05929af1a6b09be&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954976"
+    },
+    {
+      "id": 73,
+      "name": "Katsuki Bakugo",
+      "anime": "My Hero Academia",
+      "rarity": "Legendary",
+      "value": 1200,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124669029875782/1389150916602626129/Carte_-_Shadow_Roll_6.png?ex=6866361b&is=6864e49b&hm=89b8ec3741c2bcb2f8aabc1a62295fa9c69865ff818ad2cd8b420db02606fe40&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954978"
+    },
+    {
+      "id": 78,
+      "name": "Momo Yaoyorozu",
+      "anime": "My Hero Academia",
+      "rarity": "Rare",
+      "value": 6000,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124669029875782/1390084533495398520/Carte_-_Shadow_Roll_24.png?ex=6866f89b&is=6865a71b&hm=7fe34120343ff96254795b595b7c476de98023cd0792be8a94366ebe8a3fc59e&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954979"
+    },
+    {
+      "id": 75,
+      "name": "Ochaco Uraraka",
+      "anime": "My Hero Academia",
+      "rarity": "Epic",
+      "value": 500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124669029875782/1389151313408954439/Carte_-_Shadow_Roll_8.png?ex=6866367a&is=6864e4fa&hm=099b6299db0362b74cec390f12810a4c686d250ddd4bf09621c2dfbc75c014e1&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954980"
+    },
+    {
+      "id": 74,
+      "name": "Shoto Todoroki",
+      "anime": "My Hero Academia",
+      "rarity": "Legendary",
+      "value": 1250,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124669029875782/1389151607408558130/Carte_-_Shadow_Roll_10.png?ex=686636c0&is=6864e540&hm=8afde8d9c786cb6df98d4a4fe2be7665a28da4b85a36700840cb1eb9f275aa8f&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954981"
+    },
+    {
+      "id": 76,
+      "name": "Tenya Iida",
+      "anime": "My Hero Academia",
+      "rarity": "Epic",
+      "value": 450,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124669029875782/1389151405365006447/Carte_-_Shadow_Roll_9.png?ex=68663690&is=6864e510&hm=223d1c7ca1753ecd889ebf811b0462ec140bbe9df42f68c30c5c1cb1dd0a2d02&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954983"
+    },
+    {
+      "id": 77,
+      "name": "Tsuyu Asui",
+      "anime": "My Hero Academia",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124669029875782/1390084613417865338/Carte_-_Shadow_Roll_25.png?ex=6866f8ae&is=6865a72e&hm=db7182258c9f84a8b2c8e92ba794501a2eaeec863f332c6105db516eb3c1e1f2&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954984"
+    },
+    {
+      "id": 7,
+      "name": "Gaara",
+      "anime": "Naruto",
+      "rarity": "Epic",
+      "value": 750,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390619579163607100/Carte_-_Shadow_Roll.png?ex=686a3c68&is=6868eae8&hm=a423918d5e921db9fa2c08cb960708c839c7ba7967ff77340641312415424707&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954985"
+    },
+    {
+      "id": 88,
+      "name": "Hashirama Senju",
+      "anime": "Naruto",
+      "rarity": "Mythic",
+      "value": 72500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390621205140082688/Carte_-_Shadow_Roll.gif?ex=686a3deb&is=6868ec6b&hm=42ee70783396bbaf1b7fc8425e31295d905b29e52f26e46fb3883579fccedf71&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954986"
+    },
+    {
+      "id": 10,
+      "name": "Hinata Hyuga",
+      "anime": "Naruto",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390758741921497249/image.png?ex=686a1543&is=6868c3c3&hm=a0855131f81b5d72b7716399aba47b4a42185c13c1474a635c80262703111085&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954987"
+    },
+    {
+      "id": 4,
+      "name": "Itachi Uchiha",
+      "anime": "Naruto",
+      "rarity": "Mythic",
+      "value": 3500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390759433717551245/Carte_-_Shadow_Roll.gif?ex=686a15e8&is=6868c468&hm=8fe28ad235344c1eaca467b990ce7381a8ac10842a66f4e76b707a7226963ed8&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954988"
+    },
+    {
+      "id": 8,
+      "name": "Jiraiya",
+      "anime": "Naruto",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390759717235851294/Carte_-_Shadow_Roll.png?ex=686a162b&is=6868c4ab&hm=e86ff0f5ad2b608948a74e2458ba7b9f05a64ea4d1a9874865212d32298f03ec&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954989"
+    },
+    {
+      "id": 3,
+      "name": "Kakashi Hatake",
+      "anime": "Naruto",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390760082995806318/Carte_-_Shadow_Roll1.png?ex=686a1682&is=6868c502&hm=838b08d7273854b14759fc48d9d4e21708d6762cce4bef7cec608d1a1e5fbd29&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954990"
+    },
+    {
+      "id": 5,
+      "name": "Madara Uchiha",
+      "anime": "Naruto",
+      "rarity": "Mythic",
+      "value": 4000,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390760645015769198/Carte_-_Shadow_Roll1.gif?ex=686a1708&is=6868c588&hm=658c670df98b34feb9901e0e578054d0d98dc2091425cf65c8aca1c00562ade8&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954991"
+    },
+    {
+      "id": 9,
+      "name": "Minato Namikaze",
+      "anime": "Naruto",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390761576507641906/Carte_-_Shadow_Roll3.png?ex=686a17e6&is=6868c666&hm=c369c0f0222097791f281e82ad2a331ead371e4e4b43f1438a0c90a3331161f0&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954992"
+    },
+    {
+      "id": 284,
+      "name": "Naruto Uzumaki",
+      "anime": "Naruto",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390761656874958918/image.png?ex=686a17fa&is=6868c67a&hm=04cf30d12c7bd7b4179ddeb5b2a594a2ae063515b43e437a4dfbb8d8f29df73a&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954993"
+    },
+    {
+      "id": 217,
+      "name": "Neji Hyuga",
+      "anime": "Naruto",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390762247223115858/Carte_-_Shadow_Roll4.png?ex=686a1886&is=6868c706&hm=0b2d4fdc3821f25e088b689d45c98203bfdcd070b49236edf315f40177174abe&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954995"
+    },
+    {
+      "id": 219,
+      "name": "Orochimaru",
+      "anime": "Naruto",
+      "rarity": "Mythic",
+      "value": 3200,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390804641792524311/Carte_-_Shadow_Roll3.gif?ex=686a4002&is=6868ee82&hm=ffce2ffe4e346c88902ff75cc2557e5ac9766b2a6437a55c2414a3f947f603ab&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954996"
+    },
+    {
+      "id": 91,
+      "name": "Rock Lee",
+      "anime": "Naruto",
+      "rarity": "Rare",
+      "value": 350,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390805070161121333/Carte_-_Shadow_Roll5.png?ex=686a4068&is=6868eee8&hm=ab24351bc19956edcbc80619bc41909c915f666e50cd18ef7bf7c1982781b0ca&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954997"
+    },
+    {
+      "id": 6,
+      "name": "Sakura Haruno",
+      "anime": "Naruto",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390805413921820732/Carte_-_Shadow_Roll6.png?ex=686a40ba&is=6868ef3a&hm=899804f1e77aee58b2d35d998c14bd62730328780bb6a780452d5196a3adc589&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.954998"
+    },
+    {
+      "id": 291,
+      "name": "Sasuke Uchiha",
+      "anime": "Naruto",
+      "rarity": "Legendary",
+      "value": 1450,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390805980442525929/Carte_-_Shadow_Roll7.png?ex=686a4141&is=6868efc1&hm=b2bf1bf06a3c92456c499a8cf9005428a8900d878bde993e59ff2df43c7bd5f9&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955000"
+    },
+    {
+      "id": 218,
+      "name": "Shikamaru Nara",
+      "anime": "Naruto",
+      "rarity": "Rare",
+      "value": 350,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390806000453419048/Carte_-_Shadow_Roll8.png?ex=686a4146&is=6868efc6&hm=157e2bc41b7c44118cb2938d9bdeb1d4f36b1b0d67617732189d41c45a58826f&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955001"
+    },
+    {
+      "id": 220,
+      "name": "Tsunade",
+      "anime": "Naruto",
+      "rarity": "Epic",
+      "value": 850,
+      "image_url": "https://cdn.discordapp.com/attachments/1389031204539465846/1390806629666001036/Carte_-_Shadow_Roll9.png?ex=686a41dc&is=6868f05c&hm=7b1f73416591fcf051c1659bc576c13978d340658011b2502e340bc5f46b3696&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955002"
+    },
+    {
+      "id": 187,
+      "name": "Boa Hancock",
+      "anime": "One Piece",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391526713124454520/Carte_-_Shadow_Roll.png?ex=686c37bd&is=686ae63d&hm=dfb4cc30a521f6ab0ad7d287032634cc42a988df6620a27cb88c7d30108927e0&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955003"
+    },
+    {
+      "id": 292,
+      "name": "Brook",
+      "anime": "One Piece",
+      "rarity": "Epic",
+      "value": 15000,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391138621482074122/Carte_-_Shadow_Roll_76.png?ex=686ace4d&is=68697ccd&hm=3cc19dadbbca8d931cd77502f76cb89417d235d2f71b7fc0bb1579a953345138&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955004"
+    },
+    {
+      "id": 18,
+      "name": "Chopper",
+      "anime": "One Piece",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391146242645692538/Carte_-_Shadow_Roll_81.png?ex=686ad566&is=686983e6&hm=6182cda8476a6806bc84df8ebe9ca12802023a7021c5d2058573cd4414cf4619&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955005"
+    },
+    {
+      "id": 20,
+      "name": "Franky",
+      "anime": "One Piece",
+      "rarity": "Epic",
+      "value": 650,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391146307736961104/Carte_-_Shadow_Roll_83.png?ex=686ad576&is=686983f6&hm=251c4d6997a1c7ed648b716de4239608c61f2e1ff812a50ee23efd56acd99570&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955006"
+    },
+    {
+      "id": 11,
+      "name": "Monkey D. Luffy",
+      "anime": "One Piece",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391146510477033642/Carte_-_Shadow_Roll_84.png?ex=686ad5a6&is=68698426&hm=9ffae875d8cff39b052a09d18d886acdbcda0ae78d487a2367a6311246ab900e&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955007"
+    },
+    {
+      "id": 16,
+      "name": "Nami",
+      "anime": "One Piece",
+      "rarity": "Epic",
+      "value": 600,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391146834407194624/Carte_-_Shadow_Roll_86.png?ex=686ad5f3&is=68698473&hm=c35e5bdff40bc8b537e21acee59faa1c3d1a2ab70443bdd503a877011a64b864&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955008"
+    },
+    {
+      "id": 14,
+      "name": "Portgas D. Ace",
+      "anime": "One Piece",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391147030784774418/Carte_-_Shadow_Roll_87.png?ex=686ad622&is=686984a2&hm=48caa97b51aa166148620b00633332c3eeed0eeca40d08230bfac4c0fc1f0cff&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955009"
+    },
+    {
+      "id": 19,
+      "name": "Robin",
+      "anime": "One Piece",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391147119938633840/Carte_-_Shadow_Roll_88.png?ex=686ad637&is=686984b7&hm=4a7fc845cb5cc89f468037a7261dc2ab26f763f772f470b23bd72e059076ee06&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955010"
+    },
+    {
+      "id": 215,
+      "name": "Roronoa Zoro",
+      "anime": "One Piece",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdoM3BoN2UwZmltM2ZkaTZhaTV1ZGlpMWY5Mm05a2ZrNDNidWZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iT6elgprbreFGGMFp1/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955012"
+    },
+    {
+      "id": 13,
+      "name": "Sanji",
+      "anime": "One Piece",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391148194469253260/Carte_-_Shadow_Roll_89.png?ex=686ad737&is=686985b7&hm=fb084aa863322e206aa8df7b7f0b6f6ba5a9b2ebad6d788534bfdabe742f96d5&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955014"
+    },
+    {
+      "id": 15,
+      "name": "Shanks",
+      "anime": "One Piece",
+      "rarity": "Mythic",
+      "value": 3700,
+      "image_url": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BzOWhvOXV5czc3bGt3OXI0OGN5Z3U4Y3F4aTJ6eHkwem00Y3Y2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PCV3SNOQDxRsrOtlSP/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955017"
+    },
+    {
+      "id": 186,
+      "name": "Trafalgar Law",
+      "anime": "One Piece",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391149625926483998/Carte_-_Shadow_Roll_90.png?ex=686ad88d&is=6869870d&hm=fdf8d32c69da1cecbd038e5ad4429c7465277c62c2218d3e1d079cc5306785ad&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955018"
+    },
+    {
+      "id": 17,
+      "name": "Usopp",
+      "anime": "One Piece",
+      "rarity": "Rare",
+      "value": 350,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081108347191336/1391149629361618986/Carte_-_Shadow_Roll_91.png?ex=686ad88d&is=6869870d&hm=8ada7724c600287226f51a93fb30c295e6dbbdf44e2d2ac1f2635b8f0ed3e7aa&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955019"
+    },
+    {
+      "id": 242,
+      "name": "Zoro & Sanji",
+      "anime": "One Piece",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZpczU5ajBpc3k1b2VqeGFoeHM0NzhzbnNwampkdjJ2ZDYxazlyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUJhbI07o7xGM94jke/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955020"
+    },
+    {
+      "id": 294,
+      "name": "Fubuki",
+      "anime": "One Punch Man",
+      "rarity": "Rare",
+      "value": 6500,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391193994205335605/Carte_-_Shadow_Roll2.png?ex=686b01df&is=6869b05f&hm=dc174c1c4fe1440f839ea6943a2b8cc56ed9f6a1ae5680b8914bdbb58c90be32&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955021"
+    },
+    {
+      "id": 185,
+      "name": "Garou",
+      "anime": "One Punch Man",
+      "rarity": "Common",
+      "value": 600,
+      "image_url": "https://media.discordapp.net/attachments/1390081421753978899/1390301338474381404/Carte_-_Shadow_Roll_32.png?ex=6867c285&is=68667105&hm=0af66024e8ab42bcd5f46d3d1c6c05eaea3ed89494bec0f00b287c96b9ed4f8a&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955022"
+    },
+    {
+      "id": 286,
+      "name": "Garou & Saitama",
+      "anime": "One Punch Man",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://images-ext-1.discordapp.net/external/MBh2Fkwzw7MN3rv0fFAoVjSWpA4drKd2vuzPPVrIsP4/https/media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y2b3g0bXNoYnBhbjFsanN0emR2aXZlOGszcXp2ejFzb2xyMG9rOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N9KGLaToEcx2waxjb8/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955023"
+    },
+    {
+      "id": 290,
+      "name": "Garou Cosmic",
+      "anime": "One Punch Man",
+      "rarity": "Evolve",
+      "value": 200000,
+      "image_url": "https://cdn.discordapp.com/attachments/1390081421753978899/1390301820253110503/Carte_-_Shadow_Roll_18.gif?ex=6867c2f8&is=68667178&hm=e4294f0a76b4e4ef8d0296bee1ac077713e8eb31d48c151c838279737a7142ef&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955033"
+    },
+    {
+      "id": 183,
+      "name": "Genos",
+      "anime": "One Punch Man",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://media.discordapp.net/attachments/1390081421753978899/1390301353439658084/Carte_-_Shadow_Roll_33.png?ex=6867c289&is=68667109&hm=e90a175c99433b2c69d53e4bb9c817d7a997e0329df0902fc9595869242b3d00&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955036"
+    },
+    {
+      "id": 182,
+      "name": "Saitama",
+      "anime": "One Punch Man",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://images-ext-1.discordapp.net/external/YEdqwb_KGgRoUASXOnRpONWGN1RH1wuSjQVw1mvd7bk/https/media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hwNHd4YmgybHE2ZTlhNHg2NDZsbThhaHNnaWpjYTZmbHhuY3A2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7iTr7QjO8EYyeZBRlT/giphy.gif?width=400&height=225",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955038"
+    },
+    {
+      "id": 184,
+      "name": "Speed-o'-Sound Sonic",
+      "anime": "One Punch Man",
+      "rarity": "Rare",
+      "value": 8000,
+      "image_url": "https://media.discordapp.net/attachments/1390081421753978899/1390301721019814010/Carte_-_Shadow_Roll_34.png?ex=6867c2e0&is=68667160&hm=ede3580895def4c38dbb549e885e86a0938fa699031443fd7c5d6685ef1fe114&=&format=webp&quality=lossless&width=550&height=309",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955040"
+    },
+    {
+      "id": 293,
+      "name": "Tatsumaki",
+      "anime": "One Punch Man",
+      "rarity": "Mythic",
+      "value": 67500,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391193591371792504/Carte_-_Shadow_Roll3.gif?ex=686b017f&is=6869afff&hm=8ad3fa91bd93af7e7ef820c97d72c3ae371af38d46eb6901a1bfa405f228d821&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955042"
+    },
+    {
+      "id": 303,
+      "name": "Ai Hoshino",
+      "anime": "Oshi no Ko",
+      "rarity": "Legendary",
+      "value": 40000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391207429835985008/Carte_-_Shadow_Roll7.png?ex=686b0e62&is=6869bce2&hm=4acca556fc88e3a5040e785bac82ac75ea423d890e810266ed4ffbf31516febb&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955043"
+    },
+    {
+      "id": 229,
+      "name": "Akane Kurokawa",
+      "anime": "Oshi no Ko",
+      "rarity": "Secret",
+      "value": 150000,
+      "image_url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd1YW41MWNzY3R0MjZrZHV5MWdnN3FqbTdqeXhyeGRwM2Y3dmN0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sHCifHTVkCqLmuMsww/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955044"
+    },
+    {
+      "id": 324,
+      "name": "Akane Saya",
+      "anime": "Oshi no Ko",
+      "rarity": "Ultimate",
+      "value": 500000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391828325445406892/Carte_-_Shadow_Roll40.gif?ex=686d50a3&is=686bff23&hm=c369a113dd1e0689f4e796614612212395e3bd658c62def9b2fadad9ff0a81cb&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955045"
+    },
+    {
+      "id": 306,
+      "name": "Aqua & Ruby",
+      "anime": "Oshi no Ko",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391209139824361482/Carte_-_Shadow_Roll17.gif?ex=686b0ffa&is=6869be7a&hm=4fd17cb4b6925638e8e8383b0e2e379a1bb7b1185a962a755a12563094deca1d&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955046"
+    },
+    {
+      "id": 305,
+      "name": "Aqua Hoshino",
+      "anime": "Oshi no Ko",
+      "rarity": "Mythic",
+      "value": 75000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391208711157977239/Carte_-_Shadow_Roll15.gif?ex=686b0f94&is=6869be14&hm=eb8272d7f2d7c7b11657f91b25e6813407f160f49d2466e102159190f1b6cc7b&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955047"
+    },
+    {
+      "id": 304,
+      "name": "Ruby Hoshino",
+      "anime": "Oshi no Ko",
+      "rarity": "Mythic",
+      "value": 70000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391208352138133704/Carte_-_Shadow_Roll14.gif?ex=686b0f3e&is=6869bdbe&hm=3b6c59cfba47288c952209de95742c1744408086ab08cdf6ce2dee00dd3e5ab4&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955048"
+    },
+    {
+      "id": 314,
+      "name": "Emilia",
+      "anime": "Re Zero",
+      "rarity": "Legendary",
+      "value": 47000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391570243863838871/Carte_-_Shadow_Roll9.png?ex=686d0908&is=686bb788&hm=f83db4d274e717d5625960617f58e3609c81cf605286096be031bb16d4a0799d&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955049"
+    },
+    {
+      "id": 313,
+      "name": "Ram",
+      "anime": "Re Zero",
+      "rarity": "Mythic",
+      "value": 71000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391569269220839514/Carte_-_Shadow_Roll20.gif?ex=686d081f&is=686bb69f&hm=3f7b4f493538d576dbff84ec50bcdb345a133990c08ce9c442352b7c3f550ba9&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955050"
+    },
+    {
+      "id": 312,
+      "name": "Rem",
+      "anime": "Re Zero",
+      "rarity": "Titan",
+      "value": 100000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391569162589044859/Carte_-_Shadow_Roll19.gif?ex=686d0806&is=686bb686&hm=900c4690f8d522519d6d6e2f12c84b3e33b130c17c4e3a99b8fb0f6d42d7acee&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955051"
+    },
+    {
+      "id": 311,
+      "name": "Rem & Ram",
+      "anime": "Re Zero",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391569076765327380/Carte_-_Shadow_Roll18.gif?ex=686d07f2&is=686bb672&hm=8b9fed7ba0c929a8b1aa4f793af81c72fb495789e7ab7393b49c8a8bcf064311&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955052"
+    },
+    {
+      "id": 317,
+      "name": "Cha Hae",
+      "anime": "Solo Leveling",
+      "rarity": "Legendary",
+      "value": 42000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391573273262821376/Carte_-_Shadow_Roll11.png?ex=686d0bda&is=686bba5a&hm=b243e9b1785b867cd87b5b77f69b9bdd97c1067341008c6808feec68967c18f2&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955053"
+    },
+    {
+      "id": 315,
+      "name": "Esil Radiru",
+      "anime": "Solo Leveling",
+      "rarity": "Epic",
+      "value": 16000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391572663532781668/Carte_-_Shadow_Roll10.png?ex=686d0b49&is=686bb9c9&hm=a533c6011d14ca71ba52ffc78de7bafb109d063bf091d4910b660ff9fa7e2d7f&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955057"
+    },
+    {
+      "id": 318,
+      "name": "Jin Ah",
+      "anime": "Solo Leveling",
+      "rarity": "Common",
+      "value": 900,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391573620270174428/Carte_-_Shadow_Roll12.png?ex=686d0c2d&is=686bbaad&hm=9449145521d6cfcd47c777a44b62db73efc84a109dcf1cccf57de42de2bf0d32&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955059"
+    },
+    {
+      "id": 316,
+      "name": "Sung Jin Woo",
+      "anime": "Solo Leveling",
+      "rarity": "Titan",
+      "value": 100000,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391572735544528967/Carte_-_Shadow_Roll21.gif?ex=686d0b5a&is=686bb9da&hm=bd59c74fff402f2c5e00a11d993f23abec4434bbccce017d7711c3b7dac156b2&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955060"
+    },
+    {
+      "id": 198,
+      "name": "Anya Forger",
+      "anime": "Spy x Family",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://media.discordapp.net/attachments/1390074865280876615/1390298557789114378/Carte_-_Shadow_Roll_30.png?ex=6867bfee&is=68666e6e&hm=3993a5c8e35c23ca8bc9d0731d6e29e158dde1927a899ba907d4918f0fec6a38&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955062"
+    },
+    {
+      "id": 307,
+      "name": "Bond Forger",
+      "anime": "Spy x Family",
+      "rarity": "Common",
+      "value": 800,
+      "image_url": "https://cdn.discordapp.com/attachments/1391191728261824552/1391191843047477309/Carte_-_Shadow_Roll.png?ex=686affde&is=6869ae5e&hm=fc7f447a2688b264aa3b84398a18418f30ac9320778e0b41dd0f4c0815c7e90d&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955064"
+    },
+    {
+      "id": 197,
+      "name": "Loid Forger",
+      "anime": "Spy x Family",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://media.discordapp.net/attachments/1390074865280876615/1390298543725613159/Carte_-_Shadow_Roll_29.png?ex=6867bfeb&is=68666e6b&hm=10302400f4583a21939ce0ec814370b0d6781955a5bc593eebc739a4b0a83463&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955065"
+    },
+    {
+      "id": 199,
+      "name": "Yor Forger",
+      "anime": "Spy x Family",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://media.discordapp.net/attachments/1390074865280876615/1390298568501235792/Carte_-_Shadow_Roll_31.png?ex=6867bff1&is=68666e71&hm=87101bee7469b1aa73186d0b3793fb73cdafcd9c2e4907e001463cde540f9c06&=&format=webp&quality=lossless&width=910&height=512",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955066"
+    },
+    {
+      "id": 174,
+      "name": "Asuna",
+      "anime": "Sword Art Online",
+      "rarity": "Legendary",
+      "value": 1350,
+      "image_url": "Asuna",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955067"
+    },
+    {
+      "id": 173,
+      "name": "Kirito",
+      "anime": "Sword Art Online",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030937710563358/1389072699086868602/Carte_-_Shadow_Roll23.png?ex=68669603&is=68654483&hm=7c4f86b9658b4248a215ff24a66f10f19d757ed528f1869ad5ceac27ed3b3173&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955068"
+    },
+    {
+      "id": 281,
+      "name": "Kirito And Asuna",
+      "anime": "Sword Art Online",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030937710563358/1389072290318254161/Carte_-_Shadow_Roll14.gif?ex=686695a1&is=68654421&hm=86b65e9da9a6e468001f4437f62b9cc4d67e6b45611a9920ea7d01ff333ab661&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955069"
+    },
+    {
+      "id": 176,
+      "name": "Klein",
+      "anime": "Sword Art Online",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030937710563358/1389073929330622474/Carte_-_Shadow_Roll26.png?ex=68669728&is=686545a8&hm=a353321ddaedf4211df33557175560846fb7af930cd5d2ebcc365bfeea005c1c&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955070"
+    },
+    {
+      "id": 175,
+      "name": "Sinon",
+      "anime": "Sword Art Online",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030937710563358/1389073763798224958/Carte_-_Shadow_Roll25.png?ex=68669701&is=68654581&hm=f6264fb0ebccdfc293913bd45d453455b737310c5271687aba00edeb62d56974&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955071"
+    },
+    {
+      "id": 51,
+      "name": "Alexia Midgar",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124349189161071/1391132961591791667/Carte_-_Shadow_Roll_66.png?ex=686ac908&is=68697788&hm=e3eb2415c5293ac8380de26e055b09cdc3ff52a8ce989f246e7b120d3e195e2b&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955072"
+    },
+    {
+      "id": 42,
+      "name": "Alpha",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Legendary",
+      "value": 1000,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124349189161071/1391123351388422164/Carte_-_Shadow_Roll_57.png?ex=686ac014&is=68696e94&hm=f8d5dee76e307dbb04722c6030ddbdb8184c601bb43a7315f045995db34f4cbc&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955073"
+    },
+    {
+      "id": 49,
+      "name": "Aurora",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Epic",
+      "value": 500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124349189161071/1391123405268455596/Carte_-_Shadow_Roll_60.png?ex=686ac021&is=68696ea1&hm=394be11420eb31de1f5b012aae09120f9748ded188485ec4f6f21ed7f8eac5c0&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955074"
+    },
+    {
+      "id": 43,
+      "name": "Beta",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Epic",
+      "value": 500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124349189161071/1391123401686388837/Carte_-_Shadow_Roll_58.png?ex=686ac020&is=68696ea0&hm=a064110bd02d679d56aff87499c6eac8340fea01c26ad9c55b9334011e737313&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955075"
+    },
+    {
+      "id": 45,
+      "name": "Delta",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Epic",
+      "value": 500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124349189161071/1391123386138366075/Carte_-_Shadow_Roll_59.png?ex=686ac01d&is=68696e9d&hm=f27fef70fc09769a8e986c4b8d05f5c2ae21cbb3a33193aeffbf4190b7ba51da&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955076"
+    },
+    {
+      "id": 46,
+      "name": "Epsilon",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124349189161071/1391131633192665241/Carte_-_Shadow_Roll_63.png?ex=686ac7cb&is=6869764b&hm=f9a6ee9817842dfd8ec6e6d4c252a34e446c915bec0594e510c385b1e4a0bb9d&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955077"
+    },
+    {
+      "id": 48,
+      "name": "Eta",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124349189161071/1391132567717285968/Carte_-_Shadow_Roll_65.png?ex=686ac8aa&is=6869772a&hm=6edc3021eeda3895fb92ce252acc129e3a3a1e7bb6273514df5d1e044a9ca362&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955078"
+    },
+    {
+      "id": 44,
+      "name": "Gamma",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124349189161071/1391129613287166052/Carte_-_Shadow_Roll_62.png?ex=686ac5e9&is=68697469&hm=df040efbb161ba475e558add6539c85ee650da66dfe464cc818dc87ba90d1ad9&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955079"
+    },
+    {
+      "id": 50,
+      "name": "Iris Midgar",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Epic",
+      "value": 500,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124349189161071/1391126498856927272/Carte_-_Shadow_Roll_61.png?ex=686ac303&is=68697183&hm=d09abe1034463f0492e2019722851b659c14027135361974d6ab6c0f4a8aa882&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955080"
+    },
+    {
+      "id": 214,
+      "name": "Shadow",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnAybGFrYXd2OGZ5dGUxbmRjamc3dWp3dmRhOGwyZHhvcnZleGlobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kOjjJGzmyZff3EwkCH/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955081"
+    },
+    {
+      "id": 47,
+      "name": "Zeta",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://cdn.discordapp.com/attachments/1389124349189161071/1391132394861498490/Carte_-_Shadow_Roll_64.png?ex=686ac880&is=68697700&hm=a3f0a1889ac3b9a8d2d6de950d241a39ad40423b5f969f50d272d215f0db9fc2&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955082"
+    },
+    {
+      "id": 196,
+      "name": "Draken (Ken Ryuguji)",
+      "anime": "Tokyo Revengers",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://cdn.discordapp.com/attachments/1390074760787918948/1390421010033021039/Carte_-_Shadow_Roll_48.png?ex=6868dab9&is=68678939&hm=9110280ed44aae64bf1667377f597ed7f8aea4cfa5e715e09bb6db4dd6388d77&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955084"
+    },
+    {
+      "id": 195,
+      "name": "Mikey (Manjiro Sano)",
+      "anime": "Tokyo Revengers",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://cdn.discordapp.com/attachments/1390074760787918948/1390420803601830048/Carte_-_Shadow_Roll_47.png?ex=6868da88&is=68678908&hm=6af5cd89551dcb9f1e71698272d7d37e2e27898dacaa4066e11c60963828bd2e&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955085"
+    },
+    {
+      "id": 194,
+      "name": "Takemichi Hanagaki",
+      "anime": "Tokyo Revengers",
+      "rarity": "Epic",
+      "value": 650,
+      "image_url": "https://cdn.discordapp.com/attachments/1390074760787918948/1390420780411650182/Carte_-_Shadow_Roll_46.png?ex=6868da82&is=68678902&hm=f5ed6c667bc1c128eebb262fee7f406ce988fdad411441ffabdbeae4014514c1&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955086"
+    },
+    {
+      "id": 287,
+      "name": "Ellen Joe",
+      "anime": "Zenless Zone Zero",
+      "rarity": "Secret",
+      "value": 200000,
+      "image_url": "https://cdn.discordapp.com/attachments/1389125558893412513/1390403280600830185/Carte_-_Shadow_Roll.gif?ex=68682176&is=6866cff6&hm=5f89e09e1559973942e8c32c56f9f625512486d101693cb41dd7c85921527532&",
+      "source": "database",
+      "created_at": "2025-07-09T13:10:36.955087"
+    }
+  ],
+  "sync_info": {
+    "database_characters": 209,
+    "admin_created": 0,
+    "base_characters": 209
+  }
+}

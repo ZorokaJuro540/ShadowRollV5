@@ -1,0 +1,35 @@
+{
+  "name": "Shadow Roll Discord Bot",
+  "description": "Bot Discord de collection de personnages d'anime avec système de gacha",
+  "keywords": ["discord", "bot", "anime", "gacha", "python"],
+  "website": "https://github.com/yourusername/shadow-roll-bot",
+  "repository": "https://github.com/yourusername/shadow-roll-bot",
+  "logo": "https://example.com/logo.png",
+  "success_url": "/",
+  "stack": "heroku-22",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "env": {
+    "DISCORD_TOKEN": {
+      "description": "Token du bot Discord",
+      "required": true
+    },
+    "DISCORD_CLIENT_ID": {
+      "description": "Client ID de l'application Discord",
+      "required": true
+    }
+  },
+  "addons": [],
+  "scripts": {
+    "postdeploy": "python setup_database.py"
+  }
+}

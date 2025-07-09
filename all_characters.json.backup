@@ -1,0 +1,1741 @@
+{
+  "last_sync": "2025-07-02T15:30:05.654446",
+  "total_characters": 173,
+  "characters": [
+    {
+      "id": 66,
+      "name": "Annie Leonhart",
+      "anime": "Attack on Titan",
+      "rarity": "Epic",
+      "value": 600,
+      "image_url": "https://www.univers-otaku.com/wp-content/uploads/2021/02/annie-attaque-des-titans.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654040"
+    },
+    {
+      "id": 34,
+      "name": "Armin Arlert",
+      "anime": "Attack on Titan",
+      "rarity": "Epic",
+      "value": 750,
+      "image_url": "https://www.univers-otaku.com/wp-content/uploads/2021/09/snk-Armin-arlert.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654055"
+    },
+    {
+      "id": 38,
+      "name": "Connie Springer",
+      "anime": "Attack on Titan",
+      "rarity": "Common",
+      "value": 100,
+      "image_url": "https://wallpapers.com/images/hd/connie-springer-1920-x-1080-wallpaper-jeccixifa0vft0b7.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654059"
+    },
+    {
+      "id": 31,
+      "name": "Eren Yeager",
+      "anime": "Attack on Titan",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/11/attack-on-titan-eren-yaeger.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654063"
+    },
+    {
+      "id": 35,
+      "name": "Erwin Smith",
+      "anime": "Attack on Titan",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://pbs.twimg.com/media/F6jEvLybsAAIsxP.jpg:large",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654070"
+    },
+    {
+      "id": 36,
+      "name": "Historia Reiss",
+      "anime": "Attack on Titan",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://preview.redd.it/pjyhocrg90i51.png?width=1920&format=png&auto=webp&s=40a4c994926e6ace79e35a77485584d4d99677ce",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654073"
+    },
+    {
+      "id": 37,
+      "name": "Jean Kirstein",
+      "anime": "Attack on Titan",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://pbs.twimg.com/media/EyUtQMMXIAMc8WA.jpg:large",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654076"
+    },
+    {
+      "id": 33,
+      "name": "Levi Ackerman",
+      "anime": "Attack on Titan",
+      "rarity": "Mythic",
+      "value": 2500,
+      "image_url": "https://i.imgur.com/jY9cH5A.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654078"
+    },
+    {
+      "id": 32,
+      "name": "Mikasa Ackerman",
+      "anime": "Attack on Titan",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://i.imgur.com/hW7aF3Y.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654080"
+    },
+    {
+      "id": 40,
+      "name": "Reiner Braun",
+      "anime": "Attack on Titan",
+      "rarity": "Epic",
+      "value": 650,
+      "image_url": "https://i.ytimg.com/vi/9lKzmFy6vXI/maxresdefault.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654083"
+    },
+    {
+      "id": 39,
+      "name": "Sasha Blouse",
+      "anime": "Attack on Titan",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/05/sasha-b-Cropped.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654085"
+    },
+    {
+      "id": 163,
+      "name": "Asta",
+      "anime": "Black Clover",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://i.pinimg.com/736x/18/da/bd/18dabd34c558029e076c80058c5fd71f.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654089"
+    },
+    {
+      "id": 167,
+      "name": "Luck Voltia",
+      "anime": "Black Clover",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://www.nautiljon.com/images/description/00/72/1529886564492_image.webp",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654091"
+    },
+    {
+      "id": 165,
+      "name": "Noelle Silva",
+      "anime": "Black Clover",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/08/blackclovernoelle.jpg?q=70&fit=contain&w=1200&h=628&dpr=1",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654093"
+    },
+    {
+      "id": 166,
+      "name": "Yami Sukehiro",
+      "anime": "Black Clover",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://i.redd.it/4yl1syfh9lg91.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654095"
+    },
+    {
+      "id": 164,
+      "name": "Yuno",
+      "anime": "Black Clover",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://i.pinimg.com/originals/b9/31/fa/b931fafd94f8745fa32af5e18e0654e1.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654097"
+    },
+    {
+      "id": 245,
+      "name": "Alexis Ness",
+      "anime": "Blue Lock",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/b/b9/Alexis_Ness_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654098"
+    },
+    {
+      "id": 251,
+      "name": "Anri Teieri",
+      "anime": "Blue Lock",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/8/8c/Anri_Teieri_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654100"
+    },
+    {
+      "id": 241,
+      "name": "Aoshi Tokimitsu",
+      "anime": "Blue Lock",
+      "rarity": "Rare",
+      "value": 450,
+      "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/12/aoshi-tokimitsu-from-blue-lock-anime.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654102"
+    },
+    {
+      "id": 238,
+      "name": "Bachira Meguru",
+      "anime": "Blue Lock",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://a.storyblok.com/f/178900/750x422/181ec01b59/13ee2058176f406fcd78106958214ef11645010005_main.jpg/m/filters:quality(95)format(webp)",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654106"
+    },
+    {
+      "id": 237,
+      "name": "Barou Shoei",
+      "anime": "Blue Lock",
+      "rarity": "Mythic",
+      "value": 5000,
+      "image_url": "https://i.pinimg.com/originals/1b/9b/d3/1b9bd3097fbae6efb36c9fff5694506c.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654108"
+    },
+    {
+      "id": 248,
+      "name": "Hiori Yo",
+      "anime": "Blue Lock",
+      "rarity": "Rare",
+      "value": 350,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/2/2a/Hiori_Yo_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654110"
+    },
+    {
+      "id": 250,
+      "name": "Ikki Niko",
+      "anime": "Blue Lock",
+      "rarity": "Common",
+      "value": 120,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/c/c8/Ikki_Niko_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654111"
+    },
+    {
+      "id": 236,
+      "name": "Isagi & Bachira",
+      "anime": "Blue Lock",
+      "rarity": "Fusion",
+      "value": 100000,
+      "image_url": "https://gifdb.com/images/high/isagi-yoichi-and-bachira-meguru-o7ajwlqg055r1qbx.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654113"
+    },
+    {
+      "id": 240,
+      "name": "Karasu Tabito",
+      "anime": "Blue Lock",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/7/7f/Karasu_Tabito_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654115"
+    },
+    {
+      "id": 244,
+      "name": "Michael Kaiser",
+      "anime": "Blue Lock",
+      "rarity": "Mythic",
+      "value": 3000,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/4/4c/Michael_Kaiser_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654117"
+    },
+    {
+      "id": 235,
+      "name": "Nagi Seishiro",
+      "anime": "Blue Lock",
+      "rarity": "Mythic",
+      "value": 3700,
+      "image_url": "https://giffiles.alphacoders.com/219/219179.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654119"
+    },
+    {
+      "id": 247,
+      "name": "Otoya Eita",
+      "anime": "Blue Lock",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/a/a6/Otoya_Eita_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654120"
+    },
+    {
+      "id": 239,
+      "name": "Reo Mikage",
+      "anime": "Blue Lock",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://preview.redd.it/more-given-voice-actor-goodness-ritsukas-voice-actor-yuma-v0-9yoxhwgq5mha1.jpg?width=640&crop=smart&auto=webp&s=a631adfbc79572ffce23ef1730242330a7cf1185",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654122"
+    },
+    {
+      "id": 232,
+      "name": "Rin Itoshi",
+      "anime": "Blue Lock",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/d/d1/Rin_Itoshi_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654124"
+    },
+    {
+      "id": 243,
+      "name": "Sae Itoshi",
+      "anime": "Blue Lock",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/5/5c/Sae_Itoshi_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654125"
+    },
+    {
+      "id": 233,
+      "name": "Shidou Ryusei",
+      "anime": "Blue Lock",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://64.media.tumblr.com/ac9bb00a995d726b089be6de8e7921a0/0a96b37342ef195f-59/s540x810/a64fa3e480bee2493c3c7a14c37719a5369928c5.gifv",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654127"
+    },
+    {
+      "id": 234,
+      "name": "Yoichi Isagi",
+      "anime": "Blue Lock",
+      "rarity": "Mythic",
+      "value": 3800,
+      "image_url": "https://giffiles.alphacoders.com/222/222023.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654129"
+    },
+    {
+      "id": 246,
+      "name": "Yukimiya Kenyu",
+      "anime": "Blue Lock",
+      "rarity": "Epic",
+      "value": 750,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/e/e5/Yukimiya_Kenyu_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654131"
+    },
+    {
+      "id": 249,
+      "name": "Zantetsu Tsurugi",
+      "anime": "Blue Lock",
+      "rarity": "Common",
+      "value": 150,
+      "image_url": "https://static.wikia.nocookie.net/bluelock/images/1/1e/Zantetsu_Tsurugi_Anime_Profile.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654133"
+    },
+    {
+      "id": 200,
+      "name": "Denji",
+      "anime": "Chainsaw Man",
+      "rarity": "Legendary",
+      "value": 1350,
+      "image_url": "https://static.wikia.nocookie.net/ninjajojos-bizarre-adventure/images/9/90/Part1_Denji.webp/revision/latest?cb=20230815225006",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654135"
+    },
+    {
+      "id": 202,
+      "name": "Makima",
+      "anime": "Chainsaw Man",
+      "rarity": "Mythic",
+      "value": 3800,
+      "image_url": "https://www.japanfm.fr/wp-content/uploads/2022/10/Chainsaw-Man-Makima.webp",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654136"
+    },
+    {
+      "id": 201,
+      "name": "Power",
+      "anime": "Chainsaw Man",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/3/35/Power_%28Chainsaw_Man%29.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654138"
+    },
+    {
+      "id": 222,
+      "name": "L",
+      "anime": "Death Note",
+      "rarity": "Mythic",
+      "value": 3500,
+      "image_url": "https://i.imgur.com/rG9kP5I.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654140"
+    },
+    {
+      "id": 221,
+      "name": "Light Yagami",
+      "anime": "Death Note",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/10/Featured-Image-9.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654144"
+    },
+    {
+      "id": 225,
+      "name": "Mello",
+      "anime": "Death Note",
+      "rarity": "Epic",
+      "value": 650,
+      "image_url": "https://preview.redd.it/s7r7x710dx121.jpg?width=1080&crop=smart&auto=webp&s=f8271cc964afa0cff9b14d07f60bf9fd60c0925e",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654146"
+    },
+    {
+      "id": 223,
+      "name": "Misa Amane",
+      "anime": "Death Note",
+      "rarity": "Epic",
+      "value": 600,
+      "image_url": "https://www.darkcuts.club/cdn/shop/articles/Misa_Amane.png?v=1724542013&width=1100",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654148"
+    },
+    {
+      "id": 224,
+      "name": "Near",
+      "anime": "Death Note",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/04/Death-Note-Near-Cropped.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654150"
+    },
+    {
+      "id": 226,
+      "name": "Ryuk",
+      "anime": "Death Note",
+      "rarity": "Legendary",
+      "value": 1200,
+      "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/02/ryuk-death-note.jpg?q=70&fit=contain&w=1200&h=628&dpr=1",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654152"
+    },
+    {
+      "id": 56,
+      "name": "Giyu Tomioka",
+      "anime": "Demon Slayer",
+      "rarity": "Epic",
+      "value": 900,
+      "image_url": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/25/Giyu_appears_in_front_of_Tanjiro.png/revision/latest?cb=20200621160538&path-prefix=fr",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654154"
+    },
+    {
+      "id": 55,
+      "name": "Inosuke Hashibira",
+      "anime": "Demon Slayer",
+      "rarity": "Epic",
+      "value": 550,
+      "image_url": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/QCR4LPETGNHPJKAJKJQHALGXE4.jpg?auth=85e44596b5f78ace86b68bfef267b551f8dd4bd5d092fdddb53944d725762146&width=1280&height=719",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654155"
+    },
+    {
+      "id": 58,
+      "name": "Kyojuro Rengoku",
+      "anime": "Demon Slayer",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://demon-slayer.fr/wp-content/uploads/2022/08/Rengoku1.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654157"
+    },
+    {
+      "id": 60,
+      "name": "Mitsuri Kanroji",
+      "anime": "Demon Slayer",
+      "rarity": "Rare",
+      "value": 450,
+      "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/mitsuri-kanroji-demon-slayer.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654159"
+    },
+    {
+      "id": 61,
+      "name": "Muzan Kibutsuji",
+      "anime": "Demon Slayer",
+      "rarity": "Mythic",
+      "value": 3000,
+      "image_url": "https://www.hdwallpapers.in/download/pink_eyes_muzan_kibutsuji_hd_demon_slayer_kimetsu_no_yaiba-HD.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654161"
+    },
+    {
+      "id": 53,
+      "name": "Nezuko Kamado",
+      "anime": "Demon Slayer",
+      "rarity": "Legendary",
+      "value": 1100,
+      "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/07/nezuko-from-demon-slayer.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654163"
+    },
+    {
+      "id": 57,
+      "name": "Shinobu Kocho",
+      "anime": "Demon Slayer",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://i.imgur.com/jY3cH7B.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654165"
+    },
+    {
+      "id": 52,
+      "name": "Tanjiro Kamado",
+      "anime": "Demon Slayer",
+      "rarity": "Legendary",
+      "value": 1200,
+      "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/demon-slayer-tanjiro.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654167"
+    },
+    {
+      "id": 59,
+      "name": "Tengen Uzui",
+      "anime": "Demon Slayer",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://motionbgs.com/media/2109/tengen-uzui-squatting-down.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654168"
+    },
+    {
+      "id": 54,
+      "name": "Zenitsu Agatsuma",
+      "anime": "Demon Slayer",
+      "rarity": "Epic",
+      "value": 600,
+      "image_url": "https://cdn.oneesports.gg/cdn-data/2024/06/Anime_DemonSlayer_ZenitsuAgatsuma_Season1Episode11.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654170"
+    },
+    {
+      "id": 26,
+      "name": "Cell",
+      "anime": "Dragon Ball",
+      "rarity": "Mythic",
+      "value": 3600,
+      "image_url": "https://static.wikia.nocookie.net/dragonball/images/d/d2/CellPerfectReturns.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654172"
+    },
+    {
+      "id": 265,
+      "name": "Cell Perfect Evolve",
+      "anime": "Dragon Ball",
+      "rarity": "Evolve",
+      "value": 200000,
+      "image_url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R2M201b2pyZjBzaDE4OGJubjJvNjc1Y3NoaXc0MGg0OW42anB5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h3fGmxNEuHl8gQismg/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654176"
+    },
+    {
+      "id": 25,
+      "name": "Frieza",
+      "anime": "Dragon Ball",
+      "rarity": "Mythic",
+      "value": 3800,
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/03/Dragon-Ball-Z-Frieza.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654179"
+    },
+    {
+      "id": 231,
+      "name": "Goku and Vegeta",
+      "anime": "Dragon Ball",
+      "rarity": "Fusion",
+      "value": 100000,
+      "image_url": "https://i.pinimg.com/originals/ed/49/46/ed4946e6ca9a595684e4b72d8e5130be.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654181"
+    },
+    {
+      "id": 29,
+      "name": "Krillin",
+      "anime": "Dragon Ball",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://sm.ign.com/ign_pt/screenshot/default/super-krillin_nv48.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654185"
+    },
+    {
+      "id": 27,
+      "name": "Majin Buu",
+      "anime": "Dragon Ball",
+      "rarity": "Mythic",
+      "value": 3400,
+      "image_url": "https://static.wikia.nocookie.net/dragonball/images/4/4f/BuuSuperNV.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654187"
+    },
+    {
+      "id": 24,
+      "name": "Piccolo",
+      "anime": "Dragon Ball",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://images3.alphacoders.com/132/1320540.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654189"
+    },
+    {
+      "id": 23,
+      "name": "Son Gohan",
+      "anime": "Dragon Ball",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://static1.millenium.org/articles/0/34/55/10/@/1151526-tfue-1-article_m-1.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654191"
+    },
+    {
+      "id": 21,
+      "name": "Son Goku",
+      "anime": "Dragon Ball",
+      "rarity": "Titan",
+      "value": 45000,
+      "image_url": "https://i.pinimg.com/originals/0c/95/d6/0c95d675e0216ea464942f2e6f971bfe.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654193"
+    },
+    {
+      "id": 28,
+      "name": "Trunks",
+      "anime": "Dragon Ball",
+      "rarity": "Epic",
+      "value": 750,
+      "image_url": "https://i-mom.unimedias.fr/2023/01/29/trunk_dragon_ball_z.jpg?auto=format,compress&cs=tinysrgb&w=1200",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654194"
+    },
+    {
+      "id": 22,
+      "name": "Vegeta",
+      "anime": "Dragon Ball",
+      "rarity": "Legendary",
+      "value": 1600,
+      "image_url": "https://i-mom.unimedias.fr/2022/07/19/sans_titre.png?auto=format%2Ccompress&crop=faces&cs=tinysrgb&fit=crop&h=501&w=890",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654196"
+    },
+    {
+      "id": 30,
+      "name": "Yamcha",
+      "anime": "Dragon Ball Z",
+      "rarity": "Rare",
+      "value": 350,
+      "image_url": "https://hitek.fr/img/up_o/473125694/hitek_0f97929746fe2146e9cf7817b278c4c2_1580822679.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654199"
+    },
+    {
+      "id": 180,
+      "name": "Erza Scarlet",
+      "anime": "Fairy Tail",
+      "rarity": "Common",
+      "value": 200,
+      "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/anime-girl-erza-scarlet-b3nife9pzww7twgs-b3nife9pzww7twgs.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654200"
+    },
+    {
+      "id": 179,
+      "name": "Gray Fullbuster",
+      "anime": "Fairy Tail",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://i.pinimg.com/736x/87/fa/bc/87fabc5586bf0cd18dd626e0b4544bde.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654202"
+    },
+    {
+      "id": 178,
+      "name": "Lucy Heartfilia",
+      "anime": "Fairy Tail",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://cdn.shopify.com/s/files/1/0252/1736/8154/files/Lucy_Heartfilia_Fairy_Tail_2.jpg?v=1618757799",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654204"
+    },
+    {
+      "id": 177,
+      "name": "Natsu Dragneel",
+      "anime": "Fairy Tail",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://upload.wikimedia.org/wikipedia/it/5/5b/Natsu_Dragonil.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654206"
+    },
+    {
+      "id": 181,
+      "name": "Zeref",
+      "anime": "Fairy Tail",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://www.univers-otaku.com/wp-content/uploads/2021/07/fairy-tail-zeref.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654208"
+    },
+    {
+      "id": 273,
+      "name": "Ballora",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://images.steamusercontent.com/ugc/105103266288367637/0AD71A3F1D83BACABA3CC91F619A6445425392CF/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654210"
+    },
+    {
+      "id": 267,
+      "name": "Bonnie",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Epic",
+      "value": 850,
+      "image_url": "https://i.redd.it/this-is-to-all-people-saying-that-bonnie-is-blue-but-v0-ork0jzfj0jnc1.jpg?width=640&format=pjpg&auto=webp&s=246280d3e278ccdc954041b3c0723f8d12e475be",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654212"
+    },
+    {
+      "id": 268,
+      "name": "Chica",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://i.ytimg.com/vi/-OUBCeP0aLo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAHKw4L78W6DGjxtcBkwU0LxDq2qw",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654214"
+    },
+    {
+      "id": 274,
+      "name": "Circus Baby",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Epic",
+      "value": 750,
+      "image_url": "https://wallpapersok.com/images/high/happy-circus-baby-fnaf-gld08i78bq0optog.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654216"
+    },
+    {
+      "id": 269,
+      "name": "Foxy",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Legendary",
+      "value": 1450,
+      "image_url": "https://i.ytimg.com/vi/_qCAMCr-tl8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA2ozklm3JeyPWhnHhlNCwVGOIWfQ",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654220"
+    },
+    {
+      "id": 266,
+      "name": "Freddy Fazbear",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/10/26/Freddy-Fazbear-in-Five-Nights-at-Freddys.jpg?width=1200&quality=60&format=auto",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654222"
+    },
+    {
+      "id": 275,
+      "name": "Glitchtrap",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://64.media.tumblr.com/d9b5f5e0e5c2949411fb25c97fbd0f30/deef63a737a7a49c-dd/s540x810/79708d39a7577445bd9a0dafe93a3981d0d95b11.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654224"
+    },
+    {
+      "id": 270,
+      "name": "Golden Freddy",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Legendary",
+      "value": 1450,
+      "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4e76d192-3900-4b5c-b878-5088faa2df7f/df6dzly-36929063-b688-40ea-b53c-b9408eb64f46.jpg/v1/fill/w_1280,h_720,q_75,strp/golden_freddy_trio_wallpaper_by_masonfazbear_df6dzly-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNGU3NmQxOTItMzkwMC00YjVjLWI4Nzgt",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654228"
+    },
+    {
+      "id": 271,
+      "name": "Springtrap",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Mythic",
+      "value": 3600,
+      "image_url": "https://i.pinimg.com/originals/23/f7/87/23f787704130b044451ffc6a645e8cac.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654231"
+    },
+    {
+      "id": 272,
+      "name": "The Puppet",
+      "anime": "Five Nights at Freddy's",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://i.pinimg.com/736x/4d/0e/81/4d0e81fd400f56eef54bac8df0257c5d.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654233"
+    },
+    {
+      "id": 168,
+      "name": "Gon Freecss",
+      "anime": "Hunter x Hunter",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://i.pinimg.com/736x/64/67/ea/6467eae300169dc7b5cae40e860ba55c.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654235"
+    },
+    {
+      "id": 172,
+      "name": "Hisoka Morow",
+      "anime": "Hunter x Hunter",
+      "rarity": "Mythic",
+      "value": 3700,
+      "image_url": "https://www.univers-otaku.com/wp-content/uploads/2021/05/Hisoka-morow-hxh.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654237"
+    },
+    {
+      "id": 169,
+      "name": "Killua Zoldyck",
+      "anime": "Hunter x Hunter",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://figurinemangafrance.fr/cdn/shop/articles/hunter-x-hunter-10-choses-que-seuls-les-fans-du-manga-savent-sur-kirua.jpg?v=1662573973",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654238"
+    },
+    {
+      "id": 170,
+      "name": "Kurapika",
+      "anime": "Hunter x Hunter",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://pbs.twimg.com/media/EiHwfK4UMAARR-x.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654241"
+    },
+    {
+      "id": 171,
+      "name": "Leorio Paradinight",
+      "anime": "Hunter x Hunter",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://static.wikia.nocookie.net/hunterxhunter/images/a/ac/Leorio_episode_16_facing_Hisoka.PNG/revision/latest?cb=20230311044737",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654242"
+    },
+    {
+      "id": 280,
+      "name": "DIO VS JOJO",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Fusion",
+      "value": 100000,
+      "image_url": "https://preview.redd.it/is-jotaro-vs-dio-really-good-v0-ey2te0jk3u3b1.jpg?width=640&crop=smart&auto=webp&s=f59b14800370921098adad6047e5f1c5cc219fe9",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654244"
+    },
+    {
+      "id": 160,
+      "name": "Dio Brando",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Mythic",
+      "value": 4000,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389026516930789536/Carte_-_Shadow_Roll_4.gif?ex=68631f40&is=6861cdc0&hm=0c918c0bf32281a066bc7fa06eb58de0426799a7ef1133056b133641ebfce513&=&width=1440&height=810",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654247"
+    },
+    {
+      "id": 264,
+      "name": "Dio Brando Evolve",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Evolve",
+      "value": 150000,
+      "image_url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZvbTJpZWd5cjh3bnRydWNhd2d3cTJoZWFwcWV4MDJyZXJ4YzNhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcNfEZhtGS5omhPDi/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654249"
+    },
+    {
+      "id": 216,
+      "name": "Dio vs Jotaro",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Fusion",
+      "value": 100000,
+      "image_url": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh3cmk3cmV6cndlN3kyNWhobXRsdmk1YTJvNGFtamx1and6c3Z0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lewjDWQrmAazAFNoNi/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654252"
+    },
+    {
+      "id": 162,
+      "name": "Enrico Pucci",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Mythic",
+      "value": 3900,
+      "image_url": "https://images-ext-1.discordapp.net/external/exWZ5rC2kdiuoTrWbThPhfJpnaaZDhQjc_QGP6Ifdnw/https/media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2h3cWg4bHRoamdmYWNkdmZnaXg0bGhsYWYwMTE2Z3JpMWF3aXgxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gKeELKx2ekXs9X1KN5/giphy.gif?width=500&height=281",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654254"
+    },
+    {
+      "id": 158,
+      "name": "Giorno Giovanna",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Legendary",
+      "value": 1700,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389018118600261672/Carte_-_Shadow_Roll_2.png?ex=6863176e&is=6861c5ee&hm=666f4790289d42f35b2160ca9d92c869fd0468c7cfee24da2a94856af81f18e9&=&format=webp&quality=lossless&width=1635&height=920",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654256"
+    },
+    {
+      "id": 230,
+      "name": "JoJo & Caesar",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Fusion",
+      "value": 100000,
+      "image_url": "https://i.pinimg.com/originals/cf/1b/fc/cf1bfcc77625c6d5e7436ada3a92ec00.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654258"
+    },
+    {
+      "id": 159,
+      "name": "Jolyne Cujoh",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Legendary",
+      "value": 1600,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389018314054832138/Carte_-_Shadow_Roll_3.png?ex=6863179c&is=6861c61c&hm=55ae8e942a760d9289bb9a66f47955a167c1987a67a7b7aafdf251a7eae73cc4&=&format=webp&quality=lossless&width=1635&height=920",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654260"
+    },
+    {
+      "id": 154,
+      "name": "Jonathan Joestar",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389013470837604402/Legendary_-_Shadow_Roll.png?ex=6863131a&is=6861c19a&hm=f393da411f5b6ae861e6289be1e8bf377d56b904bba1a04227c71a3531368fe2&=&format=webp&quality=lossless&width=1635&height=920",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654263"
+    },
+    {
+      "id": 213,
+      "name": "Joseph Joestar",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://drive.google.com/file/d/1mU6WAyesgaz7-V1M2q66Mqo8T6ey5zhl/view?usp=drive_link",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654265"
+    },
+    {
+      "id": 157,
+      "name": "Josuke Higashikata",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Legendary",
+      "value": 1600,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389017945832685618/Carte_-_Shadow_Roll_1.png?ex=68631744&is=6861c5c4&hm=f60a854488f415fdcfbe6f7599bca34ca39ec57b718cfee338f2b3705dec1ef7&=&format=webp&quality=lossless&width=1635&height=920",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654267"
+    },
+    {
+      "id": 156,
+      "name": "Jotaro Kujo",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Legendary",
+      "value": 1700,
+      "image_url": "https://media.discordapp.net/attachments/1389008376385634425/1389016622429241405/Carte_-_Shadow_Roll.png?ex=68631609&is=6861c489&hm=61cbedb718ee47bf913fa3d89f10c526f1b995a2b57d412c185441daa58e3b49&=&format=webp&quality=lossless&width=1635&height=920",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654271"
+    },
+    {
+      "id": 161,
+      "name": "Kars",
+      "anime": "JoJo's Bizarre Adventure",
+      "rarity": "Mythic",
+      "value": 4200,
+      "image_url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJhMG9qcXZ0Z3ExbmE5YjVmemduYTAwN3did3Y3M2dnb2twbm00OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IUMiSnqYrEB8hDYGsF/giphy.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654273"
+    },
+    {
+      "id": 191,
+      "name": "Megumi Fushiguro",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://i.pinimg.com/736x/08/c1/d7/08c1d71404ee1496b395cad059964f09.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654275"
+    },
+    {
+      "id": 192,
+      "name": "Nobara Kugisaki",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/c/c7/Nobara_restant_fid%C3%A8le_%C3%A0_elle-m%C3%AAme_EP3.png/revision/latest?cb=20201118193220&path-prefix=fr",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654277"
+    },
+    {
+      "id": 193,
+      "name": "Sukuna",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Mythic",
+      "value": 3500,
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAtNEo3Cy1xcXZzhAfXS8fFvNYSvpMieJ9Vj9y7X9VH6qYUOlFYFrsoo4ULnKYrdRrCt9lbxDJT_SZzz6DY_MhxKpgR4yw13xv024MdiQK3FBZvSnU62i-7SeH6wNxoipskOLRqeIeMnyR/w919/jujutsu-kaisen-sukuna-uhdpaper.com-4K-7.3063-wp.thumbnail.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654279"
+    },
+    {
+      "id": 190,
+      "name": "Yuji Itadori",
+      "anime": "Jujutsu Kaisen",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://www.serieously.com/app/uploads/2024/02/yuji-souriant-crepuscule-jujutsu-kaisen.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654280"
+    },
+    {
+      "id": 189,
+      "name": "Kazuma Satou",
+      "anime": "Konosuba",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/YVYKJIXKRVDETF6RGJNBU62HDQ.jpeg?auth=d92d96a10f154f8c58a283b4a2906ca609ebfb2a69e31ad0e508cf7800469b06&width=1200&height=675",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654282"
+    },
+    {
+      "id": 188,
+      "name": "Megumin",
+      "anime": "Konosuba",
+      "rarity": "Epic",
+      "value": 600,
+      "image_url": "https://s1.zerochan.net/Megumin.600.3182248.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654284"
+    },
+    {
+      "id": 81,
+      "name": "All Might",
+      "anime": "My Hero Academia",
+      "rarity": "Mythic",
+      "value": 3600,
+      "image_url": "https://i.imgur.com/bQ3uZ7T.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654286"
+    },
+    {
+      "id": 80,
+      "name": "Denki Kaminari",
+      "anime": "My Hero Academia",
+      "rarity": "Common",
+      "value": 150,
+      "image_url": "https://preview.redd.it/the-wasted-potential-of-denki-kaminari-v0-6p9flxt25tnd1.jpg?width=739&format=pjpg&auto=webp&s=528a395142f0dd7e01456ddf6662c5d64edce804",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654292"
+    },
+    {
+      "id": 79,
+      "name": "Eijiro Kirishima",
+      "anime": "My Hero Academia",
+      "rarity": "Rare",
+      "value": 350,
+      "image_url": "https://www.univers-otaku.com/wp-content/uploads/2021/03/kirishima-eijiro-my-hero.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654294"
+    },
+    {
+      "id": 228,
+      "name": "Endeavor",
+      "anime": "My Hero Academia",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://i.imgur.com/dS5wB9V.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654296"
+    },
+    {
+      "id": 227,
+      "name": "Eraser Head",
+      "anime": "My Hero Academia",
+      "rarity": "Epic",
+      "value": 750,
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/12/Aizawas-Scarf.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654298"
+    },
+    {
+      "id": 72,
+      "name": "Izuku Midoriya",
+      "anime": "My Hero Academia",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://i.imgur.com/wL6pU2N.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654300"
+    },
+    {
+      "id": 73,
+      "name": "Katsuki Bakugo",
+      "anime": "My Hero Academia",
+      "rarity": "Legendary",
+      "value": 1200,
+      "image_url": "https://i.imgur.com/xM7qV3P.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654302"
+    },
+    {
+      "id": 78,
+      "name": "Momo Yaoyorozu",
+      "anime": "My Hero Academia",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/06/Momo.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654304"
+    },
+    {
+      "id": 75,
+      "name": "Ochaco Uraraka",
+      "anime": "My Hero Academia",
+      "rarity": "Epic",
+      "value": 500,
+      "image_url": "https://static.wikia.nocookie.net/heros/images/6/67/Ochaco_Infobox.png/revision/latest?cb=20200324175254&path-prefix=fr",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654306"
+    },
+    {
+      "id": 74,
+      "name": "Shoto Todoroki",
+      "anime": "My Hero Academia",
+      "rarity": "Legendary",
+      "value": 1250,
+      "image_url": "https://i.imgur.com/aP2tY6S.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654308"
+    },
+    {
+      "id": 76,
+      "name": "Tenya Iida",
+      "anime": "My Hero Academia",
+      "rarity": "Epic",
+      "value": 450,
+      "image_url": "https://i.imgur.com/zO9sX5R.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654310"
+    },
+    {
+      "id": 77,
+      "name": "Tsuyu Asui",
+      "anime": "My Hero Academia",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://pm1.aminoapps.com/7680/aa76d0f304665c67a03fb02fe253c8f0c1b9dbb9r1-1199-674v2_hq.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654312"
+    },
+    {
+      "id": 7,
+      "name": "Gaara",
+      "anime": "Naruto",
+      "rarity": "Epic",
+      "value": 750,
+      "image_url": "https://manga-imperial.fr/cdn/shop/articles/gaara_du_desert_naruto_b5aa2c42-5035-4db0-a885-e242ee19a1bf_640x.jpg?v=1671887620",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654316"
+    },
+    {
+      "id": 88,
+      "name": "Hashirama Senju",
+      "anime": "Naruto",
+      "rarity": "Mythic",
+      "value": 4000,
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/03/hashirama-from-naruto.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654318"
+    },
+    {
+      "id": 10,
+      "name": "Hinata Hyuga",
+      "anime": "Naruto",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/03/Hinata-uses-her-Byakugan-in-Boruto.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654320"
+    },
+    {
+      "id": 4,
+      "name": "Itachi Uchiha",
+      "anime": "Naruto",
+      "rarity": "Mythic",
+      "value": 3500,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/b/bb/Itachi.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654323"
+    },
+    {
+      "id": 8,
+      "name": "Jiraiya",
+      "anime": "Naruto",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/2/2c/Jiraiya.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654325"
+    },
+    {
+      "id": 3,
+      "name": "Kakashi Hatake",
+      "anime": "Naruto",
+      "rarity": "Epic",
+      "value": 800,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/e/e3/Kakashi_Hatake_Periodo_de_Cambios.png/revision/latest?cb=20170109205833&path-prefix=es",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654327"
+    },
+    {
+      "id": 5,
+      "name": "Madara Uchiha",
+      "anime": "Naruto",
+      "rarity": "Mythic",
+      "value": 4000,
+      "image_url": "https://www.univers-otaku.com/wp-content/uploads/2021/06/madara-uchiha-naruto.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654329"
+    },
+    {
+      "id": 9,
+      "name": "Minato Namikaze",
+      "anime": "Naruto",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/7/7f/Minato_Namikaze.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654331"
+    },
+    {
+      "id": 1,
+      "name": "Naruto Uzumaki",
+      "anime": "Naruto",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/d/dd/Naruto_Part_II.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654333"
+    },
+    {
+      "id": 217,
+      "name": "Neji Hyuga",
+      "anime": "Naruto",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/e/ee/Neji_%28Parte_I%29.png/revision/latest/scale-to-width-down/1200?cb=20200309134740&path-prefix=pt-br",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654336"
+    },
+    {
+      "id": 219,
+      "name": "Orochimaru",
+      "anime": "Naruto",
+      "rarity": "Mythic",
+      "value": 3200,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/3/32/Orochimaru_Infobox.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654338"
+    },
+    {
+      "id": 91,
+      "name": "Rock Lee",
+      "anime": "Naruto",
+      "rarity": "Rare",
+      "value": 350,
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/05/Naruto-Rock-Lee-1.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654340"
+    },
+    {
+      "id": 6,
+      "name": "Sakura Haruno",
+      "anime": "Naruto",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://static.wikia.nocookie.net/personnage-manga-puissance/images/9/97/SSS.jpg/revision/latest?cb=20210618094448&path-prefix=fr",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654342"
+    },
+    {
+      "id": 2,
+      "name": "Sasuke Uchiha",
+      "anime": "Naruto",
+      "rarity": "Legendary",
+      "value": 1450,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_2.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654344"
+    },
+    {
+      "id": 218,
+      "name": "Shikamaru Nara",
+      "anime": "Naruto",
+      "rarity": "Rare",
+      "value": 350,
+      "image_url": "https://cdn.shopify.com/s/files/1/0046/2779/1960/files/shikamaru_nara_naruto.jpg?v=1584792839",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654346"
+    },
+    {
+      "id": 220,
+      "name": "Tsunade",
+      "anime": "Naruto",
+      "rarity": "Epic",
+      "value": 850,
+      "image_url": "https://static.wikia.nocookie.net/naruto/images/b/b3/Tsunade_infobox2.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654348"
+    },
+    {
+      "id": 187,
+      "name": "Boa Hancock",
+      "anime": "One Piece",
+      "rarity": "Rare",
+      "value": 400,
+      "image_url": "https://comicbook.com/wp-content/uploads/sites/4/2023/12/58508e3d-eb8b-4f95-af47-ac86f4f326ab.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654351"
+    },
+    {
+      "id": 18,
+      "name": "Chopper",
+      "anime": "One Piece",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://orgoglionerd.it/wp-content/uploads/2023/09/tony-tony-chopper-netflix-one-piece-live-action-come-realizzare-min.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654353"
+    },
+    {
+      "id": 20,
+      "name": "Franky",
+      "anime": "One Piece",
+      "rarity": "Epic",
+      "value": 650,
+      "image_url": "https://www.japanfm.fr/wp-content/uploads/2023/07/franky-one-piece-scaled.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654354"
+    },
+    {
+      "id": 11,
+      "name": "Monkey D. Luffy",
+      "anime": "One Piece",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654359"
+    },
+    {
+      "id": 16,
+      "name": "Nami",
+      "anime": "One Piece",
+      "rarity": "Epic",
+      "value": 600,
+      "image_url": "https://fictionhorizon.com/wp-content/uploads/2023/03/Nami_3.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654361"
+    },
+    {
+      "id": 14,
+      "name": "Portgas D. Ace",
+      "anime": "One Piece",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/e/ea/Portgas_D._Ace_Anime_Infobox.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654363"
+    },
+    {
+      "id": 19,
+      "name": "Robin",
+      "anime": "One Piece",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://www.manga-city.fr/wp-content/uploads/2024/09/nico-robin-1.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654367"
+    },
+    {
+      "id": 215,
+      "name": "Roronoa Zoro",
+      "anime": "One Piece",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://i.pinimg.com/originals/7c/9a/3c/7c9a3cb7b488581e26318e2d6ec88a0f.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654370"
+    },
+    {
+      "id": 13,
+      "name": "Sanji",
+      "anime": "One Piece",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/0/06/Sanji_Anime_Post_Timeskip_Infobox.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654372"
+    },
+    {
+      "id": 15,
+      "name": "Shanks",
+      "anime": "One Piece",
+      "rarity": "Mythic",
+      "value": 3700,
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Shanks_Anime_Infobox.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654374"
+    },
+    {
+      "id": 186,
+      "name": "Trafalgar Law",
+      "anime": "One Piece",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://cdn.oneesports.gg/cdn-data/2024/06/OnePiece_TrarfalgarLaw_Room.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654376"
+    },
+    {
+      "id": 17,
+      "name": "Usopp",
+      "anime": "One Piece",
+      "rarity": "Rare",
+      "value": 350,
+      "image_url": "https://preview.redd.it/usopps-time-is-coming-v0-2rxuy7upjaqa1.jpg?width=1280&format=pjpg&auto=webp&s=14b64278dad984733462751d752dd98d0ca444f6",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654378"
+    },
+    {
+      "id": 242,
+      "name": "Zoro & Sanji",
+      "anime": "One Piece",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://giffiles.alphacoders.com/222/222429.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654380"
+    },
+    {
+      "id": 185,
+      "name": "Garou",
+      "anime": "One Punch Man",
+      "rarity": "Common",
+      "value": 200,
+      "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/garou-stare.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654383"
+    },
+    {
+      "id": 183,
+      "name": "Genos",
+      "anime": "One Punch Man",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://images7.alphacoders.com/656/656714.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654385"
+    },
+    {
+      "id": 182,
+      "name": "Saitama",
+      "anime": "One Punch Man",
+      "rarity": "Legendary",
+      "value": 1500,
+      "image_url": "https://cdn-www.konbini.com/files/2024/01/Feat-One-Punch-Man.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654387"
+    },
+    {
+      "id": 184,
+      "name": "Speed-o'-Sound Sonic",
+      "anime": "One Punch Man",
+      "rarity": "Rare",
+      "value": 450,
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/12/Speed-o-Sound-Sonic-2.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654389"
+    },
+    {
+      "id": 229,
+      "name": "Akane Kurokawa",
+      "anime": "Oshi no Ko",
+      "rarity": "Secret",
+      "value": 150000,
+      "image_url": "https://cdn.discordapp.com/attachments/1302916458866671636/1387535954578899004/pn3XzVv3P39H_jmBEncvMH5BeChfql9KccRzxuyJjAePVrAKNPMCtf9T-igoD26Czp2DkkLvDLdmPPwUTb_GXg.gif?ex=685db30e&is=685c618e&hm=d0dd7d22f0a8aa39a2dbc1eb04da202ee1e023100103b9339a75c45822ee65b4&",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654392"
+    },
+    {
+      "id": 198,
+      "name": "Anya Forger",
+      "anime": "Spy x Family",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://a.storyblok.com/f/178900/960x540/1f2b28083f/anya-forger-spy-x-family.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654394"
+    },
+    {
+      "id": 197,
+      "name": "Loid Forger",
+      "anime": "Spy x Family",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://alfabetajuega.com/hero/2024/04/spy-x-family-loid.jpg?width=768&aspect_ratio=16:9&format=nowebp",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654396"
+    },
+    {
+      "id": 199,
+      "name": "Yor Forger",
+      "anime": "Spy x Family",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://animenew.com.br/wp-content/uploads/2024/06/Nova-figure-de-Yor-Forger-surpreende-fas-de-SPY×FAMILY-jpg.webp",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654398"
+    },
+    {
+      "id": 174,
+      "name": "Asuna",
+      "anime": "Sword Art Online",
+      "rarity": "Legendary",
+      "value": 1350,
+      "image_url": "https://i.pinimg.com/736x/d6/da/db/d6dadb0efc90fe79b0ba0d2eaebb89b7.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654400"
+    },
+    {
+      "id": 173,
+      "name": "Kirito",
+      "anime": "Sword Art Online",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://preview.redd.it/i-enhanced-altered-the-underworld-sky-behind-kirito-along-v0-88sbfqjqkdh91.png?width=1080&crop=smart&auto=webp&s=409c507c8139c430ba6bfeefb72ee3cd08e9552d",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654402"
+    },
+    {
+      "id": 281,
+      "name": "Kirito And Asuna",
+      "anime": "Sword Art Online",
+      "rarity": "Fusion",
+      "value": 150000,
+      "image_url": "https://cdn.discordapp.com/attachments/1389030937710563358/1389072290318254161/Carte_-_Shadow_Roll14.gif?ex=6865ece1&is=68649b61&hm=a5c01fe1bf22efbc8c961257733e2f95db390b663f6a78e0c4923de3f15c72aa&",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654406"
+    },
+    {
+      "id": 176,
+      "name": "Klein",
+      "anime": "Sword Art Online",
+      "rarity": "Rare",
+      "value": 300,
+      "image_url": "https://static.wikia.nocookie.net/swordartonline/images/1/1e/Klein.png/revision/latest?cb=20120911043317",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654409"
+    },
+    {
+      "id": 175,
+      "name": "Sinon",
+      "anime": "Sword Art Online",
+      "rarity": "Epic",
+      "value": 700,
+      "image_url": "https://static.wikia.nocookie.net/swordartonline/images/b/b0/Sinon_GGO.png/revision/latest?cb=20140727063131",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654413"
+    },
+    {
+      "id": 51,
+      "name": "Alexia Midgar",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://i.ytimg.com/vi/ZgkysKvO2ss/maxresdefault.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654415"
+    },
+    {
+      "id": 42,
+      "name": "Alpha",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Legendary",
+      "value": 1000,
+      "image_url": "https://images6.alphacoders.com/129/1294188.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654418"
+    },
+    {
+      "id": 49,
+      "name": "Aurora",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Epic",
+      "value": 500,
+      "image_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f596c723859636b52745a65654b773d3d2d313334343038383837332e3137363030363231366437623462323639323032383.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654420"
+    },
+    {
+      "id": 43,
+      "name": "Beta",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Epic",
+      "value": 500,
+      "image_url": "https://pbs.twimg.com/media/FvuO5praEAAE04k?format=jpg&name=4096x4096",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654422"
+    },
+    {
+      "id": 45,
+      "name": "Delta",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Epic",
+      "value": 500,
+      "image_url": "https://i.redd.it/best-xmas-gift-ever-delta-compilation-v0-0tr8d1ouwc7a1.png?width=1920&format=png&auto=webp&s=259a08fad6bd6b06516a640769c211980229fc94",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654424"
+    },
+    {
+      "id": 46,
+      "name": "Epsilon",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://i.ytimg.com/vi/K4V6LD6zPyA/maxresdefault.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654426"
+    },
+    {
+      "id": 48,
+      "name": "Eta",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/11/eta-listening-in-to-a-conversation-and-using-morse-code-ep-20.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654428"
+    },
+    {
+      "id": 44,
+      "name": "Gamma",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://images5.alphacoders.com/128/1287886.png",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654430"
+    },
+    {
+      "id": 50,
+      "name": "Iris Midgar",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Epic",
+      "value": 500,
+      "image_url": "https://otakusinh.com/wp-content/uploads/2023/02/screenshot_20230208-205936.png?w=1024",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654432"
+    },
+    {
+      "id": 214,
+      "name": "Shadow",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Titan",
+      "value": 50000,
+      "image_url": "https://i.pinimg.com/originals/2c/34/db/2c34db8d32bd19d734aca73e5ee49ffc.gif",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654434"
+    },
+    {
+      "id": 47,
+      "name": "Zeta",
+      "anime": "The Eminence in Shadow",
+      "rarity": "Rare",
+      "value": 250,
+      "image_url": "https://i.ytimg.com/vi/MgJIvnVF1lg/maxresdefault.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654436"
+    },
+    {
+      "id": 196,
+      "name": "Draken (Ken Ryuguji)",
+      "anime": "Tokyo Revengers",
+      "rarity": "Legendary",
+      "value": 1300,
+      "image_url": "https://a.storyblok.com/f/178900/640x360/8823c9cb77/deaece265c780a6f1fa127fd9a31d8871640568108_main.jpg/m/filters:quality(95)format(webp)",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654438"
+    },
+    {
+      "id": 195,
+      "name": "Mikey (Manjiro Sano)",
+      "anime": "Tokyo Revengers",
+      "rarity": "Legendary",
+      "value": 1400,
+      "image_url": "https://pbs.twimg.com/media/E03667fXIAMN6fN.jpg",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654441"
+    },
+    {
+      "id": 194,
+      "name": "Takemichi Hanagaki",
+      "anime": "Tokyo Revengers",
+      "rarity": "Epic",
+      "value": 650,
+      "image_url": "https://static.wikia.nocookie.net/tokyo-revengers/images/3/39/Takemichi_challenges_Kiyomasa_%28anime%29.png/revision/latest?cb=20210419121617",
+      "source": "database",
+      "created_at": "2025-07-02T15:30:05.654443"
+    }
+  ],
+  "sync_info": {
+    "database_characters": 173,
+    "admin_created": 0,
+    "base_characters": 173
+  }
+}
